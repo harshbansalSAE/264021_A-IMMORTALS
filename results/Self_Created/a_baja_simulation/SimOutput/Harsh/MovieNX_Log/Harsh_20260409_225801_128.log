@@ -1,0 +1,27 @@
+[2026-04-09 22:58:03.254] [Application] [info] GPUSensor Server running: host=harsh port=11500
+[2026-04-09 22:58:22.191] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-09 22:58:22.329] [Application] [info] Loading Installed scripts...
+[2026-04-09 22:58:22.330] [Application] [info] Loading User scripts...
+[2026-04-09 22:58:22.330] [Application] [info] Loading project scripts...
+[2026-04-09 22:58:24.103] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-09 22:58:24.257] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.81.60):28812
+[2026-04-09 22:58:24.361] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-09 22:58:24.605] [Application] [info] Using Ray Tracing Sensors Library version: 15.0.28 Nov 12 2025 - 16:19:39
+[2026-04-09 22:58:25.177] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-09 22:59:13.126] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-09 22:59:13.791] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-09 22:59:41.295] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-09 22:59:42.030] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-09 23:58:28.166] [Application] [info] APO Client: Disconnecting...
+[2026-04-09 23:58:55.881] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-09 23:58:56.035] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.81.60):28812
+[2026-04-09 23:58:56.441] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-09 23:58:56.921] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-10 00:07:02.212] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 00:07:03.012] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-10 00:07:39.085] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 00:07:39.280] [Application] [info] RSDA Server running: host=harsh port=2212
+[2026-04-10 00:07:39.927] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-10 00:07:50.978] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 00:08:56.280] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 00:12:59.550] [Application] [info] APO Client: Disconnecting...

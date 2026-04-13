@@ -1,0 +1,21 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #3 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:41:57
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2026-04-09 19:14:21
+TIME	0.000
+SIM_END			0s	0m
+IDLE	19:14:22
+SIM_START	unknown	2026-04-09 19:14:23
+TIME	0.136
+		Environment Generic: model disabled for entire Test Run (works only on route)
+TIME	0.001
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775742263
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.766
+SIM_END		unknown	20.763s	256.705m
+SHUTDOWN	CarMaker quick shutdown initiated
+

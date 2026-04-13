@@ -1,0 +1,117 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = IPGRoad 15.0
+FileCreator = CarMaker for Simulink 15.0
+LibVersion = 15.0
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 74
+nRoutes = 1
+RoadNetworkLength = 300.000
+BBox = 0.000 300.000 -6.300 6.300 -1.000 1.000
+Route.0.Length = 300.000
+RST.Unit = kmh
+RST = 50 100 130 30 70 30 0 -1
+Movie = 0.2 1 0.01 1.5 1.5 1 1
+Visualization.SamplingParams = 0.2 1 0.01
+Visualization.RoadsideWidth = 1.5 1.5
+Visualization.RoadsideSlope = 1 1
+Visualization.MovieNX.RenderMask = 4095
+PathMode = 1
+Terrain.Param = 50 25 300 100 0.75 0
+Link.0.ID = 0
+Link.0.Node0 = 0 0 0
+Link.0.Node1 = 300 0 0
+Link.0.RST = Countryroad
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 5
+Link.0.Seg.0.Type = Straight
+Link.0.Seg.0.Param = 300 0 0 0 0 0 0 0
+Link.0.LaneSection.0.ID = 8
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 10
+Link.0.LaneSection.0.LaneL.0 = 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.ARP = 11 12 13 14 15 16
+Link.0.LaneSection.0.LaneL.0.Width.ID = 67
+Link.0.LaneSection.0.LaneL.0.Width.Param = 0
+Link.0.LaneSection.0.LaneL.0.Width.Points:
+	68 10 0 0 3.5 0 -999 -999 0
+	69 10 0 1 3.5 0 -999 -999 0
+Link.0.LaneSection.0.LaneL.1.ID = 18
+Link.0.LaneSection.0.LaneL.1 = 4 0 0 0
+Link.0.LaneSection.0.LaneL.1.ARP = 19 20 21 22 23 24
+Link.0.LaneSection.0.LaneL.1.Width.ID = 70
+Link.0.LaneSection.0.LaneL.1.Width.Param = 0
+Link.0.LaneSection.0.LaneL.1.Width.Points:
+	71 18 0 0 0.3 0 -999 -999 0
+	72 18 0 1 0.3 0 -999 -999 0
+Link.0.LaneSection.0.LaneL.2.ID = 27
+Link.0.LaneSection.0.LaneL.2 = 5 0 0 0
+Link.0.LaneSection.0.LaneL.2.Width.ID = 73
+Link.0.LaneSection.0.LaneL.2.Width.Param = 0
+Link.0.LaneSection.0.LaneL.2.Width.Points:
+	74 27 0 0 2.5 0 -999 -999 0
+	75 27 0 1 2.5 0 -999 -999 0
+Link.0.LaneSection.0.LaneR.0.ID = 28
+Link.0.LaneSection.0.LaneR.0 = 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 29 30 31 32 33 34
+Link.0.LaneSection.0.LaneR.0.Width.ID = 76
+Link.0.LaneSection.0.LaneR.0.Width.Param = 0
+Link.0.LaneSection.0.LaneR.0.Width.Points:
+	77 28 0 0 3.5 0 -999 -999 0
+	78 28 0 1 3.5 0 -999 -999 0
+Link.0.LaneSection.0.LaneR.1.ID = 36
+Link.0.LaneSection.0.LaneR.1 = 4 0 0 0
+Link.0.LaneSection.0.LaneR.1.ARP = 37 38 39 40 41 42
+Link.0.LaneSection.0.LaneR.1.Width.ID = 79
+Link.0.LaneSection.0.LaneR.1.Width.Param = 0
+Link.0.LaneSection.0.LaneR.1.Width.Points:
+	80 36 0 0 0.3 0 -999 -999 0
+	81 36 0 1 0.3 0 -999 -999 0
+Link.0.LaneSection.0.LaneR.2.ID = 45
+Link.0.LaneSection.0.LaneR.2 = 5 0 0 0
+Link.0.LaneSection.0.LaneR.2.Width.ID = 82
+Link.0.LaneSection.0.LaneR.2.Width.Param = 0
+Link.0.LaneSection.0.LaneR.2.Width.Points:
+	83 45 0 0 2.5 0 -999 -999 0
+	84 45 0 1 2.5 0 -999 -999 0
+LanePath.0 = 17 10 2 10 0.1 0.1 -1 -1
+LanePath.1 = 25 18 0.25 10 0.1 0.1 -1 -1
+LanePath.2 = 35 28 2 10 0.1 0.1 -1 -1
+LanePath.3 = 43 36 0.25 10 0.1 0.1 -1 -1
+Route.0.ID = 59
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 60
+Route.0.DrvPath:
+	17
+RL.1.RoadMarking.0.ID = 26 18
+RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.12 0 1 0 0 2 4 1 1 0
+RL.1.RoadMarking.0.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.1.ID = 44 36
+RL.1.RoadMarking.1 = 0 0 0 1 0 0 0.12 0 1 0 0 2 4 1 1 0
+RL.1.RoadMarking.1.Material.0 = 1.0,1.0,1.0 0 0 0 0 0 0 1 1 0 0 0
+RL.1.RoadMarking.2.ID = 46 8
+RL.1.RoadMarking.2 = 0 0 0 1 0 0 0.15 0 4 0 0 2 4 1 1 0
+RL.1.RoadMarking.2.Material.0 = 1.0000,1.0000,0.0000 0 0 0 0 0 0 1 1 0 0 0
+RL.1.Mount.0.ID = 4 1
+RL.1.Mount.0 = 20 0 -8 1 1 1 0 0 0 0 2.4
+RL.1.Mount.0.0.ID = 6
+RL.1.Mount.0.0 = 0 2 0 0 0 0 0 98 1 1 SpeedLimit M "" 60 0 0 - - "" 0 0 0 - - "" 0 0 0
+RL.1.Mount.0.0.Size = 0.600000023841858 0.600000023841858
+RL.1.Mount.1.ID = 61 1
+RL.1.Mount.1 = 30 0 0.5 1 1 5 0 0 0 0 3.1
+RL.1.Mount.1.0.ID = 62
+RL.1.Mount.1.0 = 1 63 2.5 0 0 0 0 0 98 1 0
+RL.1.Mount.2.ID = 2 1
+RL.1.Mount.2 = 30 0 -8 1 1 1 0 0 0 0 2.4
+RL.1.Mount.2.0.ID = 3
+RL.1.Mount.2.0 = 0 2 0 0 0 0 0 98 1 1 Stop M "" 0 0 0 - - "" 0 0 0 - - "" 0 0 0
+RL.1.Mount.2.0.Size = 0.899999976158142 0.899999976158142
+RL.1.Marker.0.ID = 7 17
+RL.1.Marker.0.Type = DrvSpeed
+RL.1.Marker.0.Param = 25 0 1 60 kmh
+RL.1.Marker.1.ID = 9 17
+RL.1.Marker.1.Type = DrvStop
+RL.1.Marker.1.Param = 35 0 1 63 2 10
+Control.TrfLight.0 = 63 TLSD "" 3 3 15 3 15 3
+MaxUsedObjId = 84

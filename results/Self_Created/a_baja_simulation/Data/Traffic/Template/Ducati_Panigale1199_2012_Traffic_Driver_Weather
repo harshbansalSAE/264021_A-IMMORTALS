@@ -1,0 +1,23 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-TrafficTemplate 15
+FileCreator = CarMaker for Simulink 15.0
+Info = Example Traffic Object Template
+Color = 1.0 0.0 0.0
+ObjectClass = Motorcycle
+ObjectKind = Movable
+RCSMap.FName = RCS_Bicycle
+Movie.Geometry = 3D/Vehicles/Ducati_Panigale1199_2012_Traffic_Driver_Weather.obj
+Basics.Dimension = 2.0 0.6 1.3
+Basics.Offset = 0.25 0.0
+Basics.Fr12CoM = 1.0
+Motion.Kind = 2Wheel
+Motion.mass = 280
+Motion.Overhang = 0.3 0.3
+Motion.I = 0 0 80
+Motion.Cf = 7e4
+Motion.Cr = 1e5
+LVD.AxMax = 9.5
+LVD.vMax = 300
+LVD.Pmax = 135
+LVD.tBuildUp = 0.1
+SDweight = 0.1

@@ -1,0 +1,233 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.40.29.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 18:40:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	272.410
+ERROR		GPUSensor A3:10.21.40.29.128: Connection lost
+SIM_ABORT	Man_Autonomous_10/04	272.413s	2257.21m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:05:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	225.483
+SIM_END		Man_Autonomous_10/04	225.48s	1866.08m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:12:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	18.664
+SIM_END		Man_Autonomous_10/04	18.661s	133.263m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:12:43
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	15.265
+SIM_END		Man_Autonomous_10/04	15.262s	104.003m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:13:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	116.344
+SIM_END		Man_Autonomous_10/04	116.341s	955.954m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:16:47
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	14.219
+SIM_END		Man_Autonomous_10/04	14.216s	94.9799m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:20:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	82.424
+SIM_END		Man_Autonomous_10/04	82.421s	0.00396254m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A5:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:22:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	198.012
+SIM_END		Man_Autonomous_10/04	198.009s	0.00611558m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:28:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	118.700
+SIM_END		Man_Autonomous_10/04	118.697s	975.63m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:30:50
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	1617.290
+SIM_END		Man_Autonomous_10/04	1617.29s	13465.3m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:57:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	8.541
+SIM_END		Man_Autonomous_10/04	8.538s	45.8149m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 19:59:14
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+TIME	793.009
+SIM_END		Man_Autonomous_10/04	793.006s	6595.79m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 20:15:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	162.032
+SIM_END		Man_Autonomous_10/04	162.029s	1337.13m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 20:23:16
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	9.418
+SIM_END		Man_Autonomous_10/04	9.415s	53.4411m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 20:23:36
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	546.069
+SIM_END		Man_Autonomous_10/04	546.066s	4537.8m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.80.55.128 registered (port 11500)
+SIM_START	Man_Autonomous_10/04	2026-04-10 20:32:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Man_Autonomous_10/04
+
+WARNING		RSDA client not running on simulation start!
+TIME	103.083
+SIM_END		Man_Autonomous_10/04	103.08s	845.144m

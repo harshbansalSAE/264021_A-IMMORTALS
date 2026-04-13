@@ -1,0 +1,273 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.80.97.1 registered (port 11021)
+		A4:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 12:25:02
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775976902
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	6.981
+SIM_END		AEB_IPG	6.981s	33.7982m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.80.97.1 registered (port 11021)
+		A4:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 12:26:01
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775976961
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	6.981
+SIM_END		AEB_IPG	6.981s	33.7982m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.80.97.1 registered (port 11021)
+		A4:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 12:26:27
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775976987
+TIME	0.000
+SIMULATE	AEB_IPG
+
+ERROR		GPUSensor A3:10.21.80.97.1: Connection lost
+SIM_ABORT	AEB_IPG	0.063s	2.93163e-06m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A4:10.21.80.97.128 registered (port 11500)
+		A5:10.21.80.97.1 registered (port 11021)
+SIM_START	AEB_IPG	2026-04-12 12:26:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775977019
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	6.981
+SIM_END		AEB_IPG	6.981s	33.7982m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A8:10.21.80.97.1 registered (port 11021)
+		A9:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 12:36:38
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775977598
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	16.863
+SIM_END		AEB_IPG	16.86s	61.4999m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A8:10.21.80.97.1 registered (port 11021)
+		A9:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 12:38:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775977684
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	18.363
+SIM_END		AEB_IPG	18.36s	37.6269m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A8:10.21.80.97.1 registered (port 11021)
+		A9:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 12:39:27
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775977767
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	36.803
+SIM_END		AEB_IPG	36.8s	36.0205m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A10:10.21.80.97.1 registered (port 11021)
+		A11:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 14:31:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775984460
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	12.706
+SIM_END		AEB_IPG	12.703s	0.00120697m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A10:10.21.80.97.1 registered (port 11021)
+		A11:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 14:31:50
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775984510
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	33.8227m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+		A13:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 15:12:42
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775986962
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+SIM_END		AEB_IPG	0.02s	7.20089e-05m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+		A13:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 15:18:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775987320
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+SIM_END		AEB_IPG	0.214s	0.0477681m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+		A13:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 15:40:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775988648
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+SIM_END		AEB_IPG	0.067s	0.00275422m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+		A13:10.21.80.97.128 registered (port 11500)
+ERROR		GPUSensor 1: Result msg corrupted.
+SIM_START	AEB_IPG	2026-04-12 15:41:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775988697
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		CameraRSI: RSDS client not running on simulation start. (-60)
+SIM_END		AEB_IPG	0.058s	0.00187293m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+ERROR		GPUSensor 1: Result msg corrupted.
+		A15:10.21.80.97.2 registered (port 11022)
+SIM_START	AEB_IPG	2026-04-12 15:45:10
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775988910
+ERROR		CameraRSI: Couldn't open socket for GPUSensor 2 (port 2211) (-1)
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	AEB_IPG	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.97.1 registered (port 11021)
+		A16:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 15:45:56
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775988956
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+ERROR		GPUSensor A16:10.21.80.97.128: Connection lost
+SIM_ABORT	AEB_IPG	0.06s	0.00205247m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A19:10.21.80.97.1 registered (port 11021)
+		A20:10.21.80.97.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 18:15:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775997917
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+ERROR		GPUSensor A19:10.21.80.97.1: Connection lost
+SIM_ABORT	AEB_IPG	0.06s	0.00205247m

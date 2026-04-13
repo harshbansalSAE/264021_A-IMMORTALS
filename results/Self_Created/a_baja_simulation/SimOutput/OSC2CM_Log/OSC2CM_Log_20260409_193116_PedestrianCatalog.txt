@@ -1,0 +1,15 @@
+﻿Date;Time;Severity;Message
+2026/04/09;19:31:16.865;INFO;[Config    ] Configuring the converter.;
+2026/04/09;19:31:16.866;INFO;[Config    ] Configuration finished successfully..;
+2026/04/09;19:31:16.866;INFO;================================================================================;
+2026/04/09;19:31:16.866;INFO;[Validation] Validating PedestrianCatalog.xosc.;
+2026/04/09;19:31:16.868;INFO;--------------------------------------------------------------------------------;
+2026/04/09;19:31:16.912;INFO;[Validation] Validation succeeded with 0 errors and 0 warnings.;
+2026/04/09;19:31:16.912;INFO;--------------------------------------------------------------------------------;
+2026/04/09;19:31:17.011;INFO;[Validation][Ego    ] Validation finished with 0 errors and 0 warnings.;
+2026/04/09;19:31:17.011;INFO;[Validation][Traffic] Validation finished with 0 errors and 0 warnings.;
+2026/04/09;19:31:17.011;INFO;[Validation] Validation finished. Duration: 145ms.;
+2026/04/09;19:31:17.011;INFO;================================================================================;
+2026/04/09;19:31:17.011;INFO;[Loading   ] Loading PedestrianCatalog.xosc;
+2026/04/09;19:31:17.021;FATAL;[Loading   ] Input file contains only CatalogDefinition. Please check the input.;
+2026/04/09;19:31:17.021;FATAL;[Loading   ] Failed to load PedestrianCatalog.xosc;

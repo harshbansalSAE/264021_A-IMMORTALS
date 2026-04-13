@@ -1,0 +1,143 @@
+[2026-04-12 12:36:08.737] [Application] [info] GPUSensor Server running: host=harsh port=11500
+[2026-04-12 12:36:24.899] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-12 12:36:25.027] [Application] [info] Loading Installed scripts...
+[2026-04-12 12:36:25.028] [Application] [info] Loading User scripts...
+[2026-04-12 12:36:25.029] [Application] [info] Loading project scripts...
+[2026-04-12 12:36:38.371] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-12 12:36:38.525] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.97):20476
+[2026-04-12 12:36:38.678] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 12:36:38.861] [Application] [info] Using Ray Tracing Sensors Library version: 15.0.28 Nov 12 2025 - 16:19:39
+[2026-04-12 12:36:38.871] [Application] [info] RSDA Server running: host=harsh port=2210
+[2026-04-12 12:36:39.387] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/AEB_IPG
+[2026-04-12 12:36:39.549] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:36:39.550] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:36:39.550] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 12:36:39.550] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 12:36:39.593] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 12:36:39.593] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 12:36:39.596] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 12:36:39.596] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 12:36:39.596] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 12:36:39.596] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 12:36:39.596] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 12:36:39.596] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 12:38:04.214] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 12:38:04.754] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-12 12:38:04.866] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:38:04.867] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:38:04.867] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 12:38:04.867] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 12:38:04.874] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 12:38:04.874] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 12:38:04.874] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 12:38:04.874] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 12:38:04.874] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 12:38:04.875] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 12:38:04.875] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 12:38:04.875] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 12:39:27.433] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 12:39:27.983] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-12 12:39:28.093] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:39:28.093] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 12:39:28.093] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 12:39:28.093] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 12:39:28.102] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 12:39:28.102] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 12:39:28.102] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 12:39:28.102] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 12:39:28.102] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 12:39:28.102] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 12:39:28.102] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 12:39:28.102] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 13:34:26.665] [Application] [info] APO Client: Disconnecting...
+[2026-04-12 14:30:59.845] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-12 14:30:59.982] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.97):20476
+[2026-04-12 14:31:00.176] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 14:31:00.671] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-12 14:31:00.785] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 14:31:00.786] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 14:31:00.786] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 14:31:00.786] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 14:31:00.798] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 14:31:00.798] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 14:31:00.798] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:00.798] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 14:31:00.799] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:00.799] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 14:31:00.799] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:00.799] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 14:31:50.551] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 14:31:51.100] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-12 14:31:51.209] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 14:31:51.210] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 14:31:51.210] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 14:31:51.210] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 14:31:51.220] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 14:31:51.220] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 14:31:51.220] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:51.220] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 14:31:51.220] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:51.220] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 14:31:51.220] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 14:31:51.220] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:08:08.216] [Application] [info] APO Client: Disconnecting...
+[2026-04-12 15:12:42.018] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-12 15:12:42.156] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.97):20476
+[2026-04-12 15:12:42.329] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 15:12:42.841] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-12 15:12:42.966] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:12:42.966] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:12:42.966] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 15:12:42.966] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 15:12:42.974] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 15:12:42.974] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 15:12:42.974] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 15:12:42.974] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 15:12:42.974] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 15:12:42.974] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 15:12:42.974] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 15:12:42.974] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:14:17.532] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-12 15:18:40.365] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 15:18:40.891] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-12 15:18:40.992] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:18:40.992] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:18:40.992] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 15:18:40.992] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 15:18:41.004] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 15:18:41.005] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 15:18:41.005] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 15:18:41.005] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 15:18:41.005] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 15:18:41.005] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 15:18:41.006] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 15:18:41.006] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:40:48.815] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 15:40:49.361] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-12 15:40:49.459] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:40:49.460] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:40:49.460] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 15:40:49.460] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 15:40:49.473] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 15:40:49.473] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 15:40:49.473] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 15:40:49.473] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 15:40:49.473] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 15:40:49.473] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 15:40:49.473] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 15:40:49.473] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:41:37.674] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 15:41:38.268] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-12 15:41:38.376] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:41:38.377] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:41:38.377] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 15:41:38.377] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 15:41:38.387] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 15:41:38.387] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 15:41:38.387] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 15:41:38.387] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 15:41:38.388] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 15:41:38.388] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 15:41:38.388] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 15:41:38.388] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:45:01.201] [Application] [info] APO Client: Disconnecting...

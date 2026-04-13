@@ -1,0 +1,1880 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 17:41:44
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775909504
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 17:42:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775909557
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 17:43:12
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775909592
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 17:43:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775909620
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 17:52:05
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775910125
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A3:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:01:11
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775910671
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	21.240
+ERROR		GPUSensor A3:10.21.83.120.128: Connection lost
+SIM_ABORT	AEB_IPG	21.243s	0.0024651m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:02:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775910733
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	15.828
+SIM_END		AEB_IPG	15.825s	0.00246424m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:02:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775910761
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	10.552
+SIM_END		AEB_IPG	10.549s	0.00246312m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:11:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911283
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:11:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911308
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:12:43
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911363
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9926m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:13:55
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911435
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9926m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:14:31
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911471
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:15:54
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911554
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9919m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:16:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911609
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:18:31
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911711
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9923m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:20:30
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775911830
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	19.822
+SIM_END		AEB_IPG	19.819s	0.0024649m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:25:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775912117
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:27:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775912224
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	25.872
+SIM_END		AEB_IPG	25.869s	0.00246565m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:29:31
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775912371
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	26.673
+SIM_END		AEB_IPG	26.67s	0.00246573m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:30:21
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775912421
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	3.782
+SIM_END		AEB_IPG	3.779s	0.00246086m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:30:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775912448
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:45:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775913341
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:47:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775913443
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9925m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:48:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775913539
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	4.563
+SIM_END		AEB_IPG	4.56s	0.00246133m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:50:46
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775913646
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	13.483
+SIM_END		AEB_IPG	13.48s	0.00246379m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:51:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775913683
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9925m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 18:58:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914139
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:03:09
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914389
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:07:35
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914655
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:08:14
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914694
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:09:07
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914747
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9927m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:09:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914781
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:10:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775914858
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9927m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:14:54
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775915094
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	19.009
+SIM_END		AEB_IPG	19.006s	0.00246477m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:20:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775915451
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.274
+SIM_END		AEB_IPG	7.274s	33.9929m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:23:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775915606
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.182
+SIM_END		AEB_IPG	14.182s	94.5581m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:26:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775915813
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.182
+SIM_END		AEB_IPG	14.182s	94.5586m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:29:33
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775915973
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.182
+SIM_END		AEB_IPG	14.182s	94.5586m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:31:09
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916069
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:32:50
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916170
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:33:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916238
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:34:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916277
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:41:47
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916707
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	17.123
+SIM_END		AEB_IPG	17.12s	0.00157482m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:42:29
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916749
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	15.874
+SIM_END		AEB_IPG	15.871s	0.00157394m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:43:20
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916800
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:44:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916844
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.717
+SIM_END		AEB_IPG	14.717s	94.5715m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:44:38
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775916878
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	12.005
+SIM_END		AEB_IPG	12.002s	70.4457m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A7:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 19:59:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775917789
+TIME	6.007
+		GPUSensor A7:10.21.83.120.128: Timeout during initialization (APO state 0xffffffe5 '??? (illegal status code)', expected 'up (ready)')
+ERROR		One or more GPUSensors not ready in time
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	AEB_IPG	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:01:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775917877
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.718
+SIM_END		AEB_IPG	14.718s	94.567m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:14:42
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775918682
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.718
+SIM_END		AEB_IPG	14.718s	94.5695m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:16:01
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775918761
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.184
+SIM_END		AEB_IPG	14.184s	94.5599m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:17:14
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775918834
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.184
+SIM_END		AEB_IPG	14.184s	94.5566m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:23:44
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919224
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.186
+SIM_END		AEB_IPG	14.186s	94.5632m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:25:18
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919318
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	0.00183648m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:26:50
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919410
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	0.00183648m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:28:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919506
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	13.366
+SIM_END		AEB_IPG	13.363s	0.00025702m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:31:09
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919669
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	0.00183648m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:32:46
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919766
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	32.611
+SIM_END		AEB_IPG	32.608s	0.00090414m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:34:43
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919883
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.184
+SIM_END		AEB_IPG	14.184s	94.5573m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.83.120.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 20:35:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775919923
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.184
+SIM_END		AEB_IPG	14.184s	94.5572m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 21:46:18
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775924178
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	0.00183648m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 21:47:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775924278
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	28.627
+SIM_END		AEB_IPG	28.624s	0.000766272m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 21:53:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775924629
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	36.406
+SIM_END		AEB_IPG	36.403s	0.00103049m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 21:55:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775924758
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	1.35834e-05m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 21:59:35
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775924975
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	0.00174316m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:27:11
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775926631
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	14.648m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:31:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775926901
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	33.363
+SIM_END		AEB_IPG	33.36s	86.7417m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:38:09
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927289
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	44.943
+SIM_END		AEB_IPG	44.94s	52.5943m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A12:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:39:34
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927374
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.180
+SIM_END		AEB_IPG	14.18s	94.5601m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:41:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927513
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	14.216
+SIM_END		AEB_IPG	14.216s	94.5905m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:43:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927584
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	41.1657m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:44:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927691
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	26.583
+SIM_END		AEB_IPG	26.58s	9.75076m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:45:39
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927739
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	20.283
+SIM_END		AEB_IPG	20.28s	18.1812m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:48:09
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775927889
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	52.949
+SIM_END		AEB_IPG	52.946s	89.5386m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:51:54
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928114
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	35.023
+SIM_END		AEB_IPG	35.02s	89.1869m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:54:44
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928284
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	23.783
+SIM_END		AEB_IPG	23.78s	88.485m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:58:10
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928490
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	11.643
+SIM_END		AEB_IPG	11.64s	28.6249m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 22:59:50
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928590
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	49.543
+SIM_END		AEB_IPG	49.54s	29.5189m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:00:55
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928655
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.453
+SIM_END		AEB_IPG	7.453s	33.7596m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:02:22
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928742
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	35.523
+SIM_END		AEB_IPG	35.52s	33.2291m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:03:36
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928816
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	35.043
+SIM_END		AEB_IPG	35.04s	32.3458m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:04:22
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775928862
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.956
+SIM_END		AEB_IPG	7.956s	40.0104m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:06:45
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929005
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	13.816
+SIM_END		AEB_IPG	13.816s	91.3822m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:07:45
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929065
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	34.581
+SIM_END		AEB_IPG	34.578s	24.5535m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A14:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:09:44
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929184
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	47.898
+SIM_END		AEB_IPG	47.895s	78.8798m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:18:02
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929682
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	26.399
+SIM_END		AEB_IPG	26.396s	196.268m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:18:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929720
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	480.457m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:20:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929823
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	45.943
+SIM_END		AEB_IPG	45.94s	361.719m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:21:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775929908
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	6.786
+SIM_END		AEB_IPG	6.786s	29.6744m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:23:27
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775930007
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:24:35
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775930075
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:25:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775930141
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:27:36
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775930256
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:37:44
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775930864
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	60.003
+SIM_END		AEB_IPG	60.003s	33.8003m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:43:05
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775931185
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:43:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775931231
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A18:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-11 23:44:52
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775931292
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	19.643
+SIM_END		AEB_IPG	19.64s	27.8481m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:28:28
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775933908
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:28:58
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775933938
+TIME	0.000
+SIMULATE	AEB_IPG
+
+TIME	13.840
+SIM_END		AEB_IPG	13.837s	28.1853m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:33:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934197
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	8.260
+SIM_END		AEB_IPG	8.26s	42.2172m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:33:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934229
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	8.260
+SIM_END		AEB_IPG	8.26s	42.2172m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:34:20
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934260
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	8.260
+SIM_END		AEB_IPG	8.26s	42.2172m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:35:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934317
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A22:10.21.80.54.128 registered (port 11500)
+SIM_START	AEB_IPG	2026-04-12 00:36:07
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934367
+TIME	0.000
+SIMULATE	AEB_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.525
+SIM_END		AEB_IPG	7.525s	35.9636m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:41:08
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775934668
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	53.883
+SIM_END		Endurance_IPG	53.88s	445.056m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:46:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Traffic object 0: Reference point types CoM and RearAxle not available for start position types Route, RelativeRoute, Path and RelativePath
+ERROR		Can't get start position of traffic object 0
+		Current random seed value = 1775935001
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Endurance_IPG	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:56:33
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935593
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		Traffic object 0: Longitudinal step 0 in maneuver 0 not supported in combination with dynamic path
+TIME	48.970
+SIM_END		Endurance_IPG	48.97s	404.598m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:56:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935613
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		Traffic object 0: Longitudinal step 0 in maneuver 0 not supported in combination with dynamic path
+TIME	48.970
+SIM_END		Endurance_IPG	48.97s	404.598m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:57:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935637
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		Traffic object 0: Longitudinal step 0 in maneuver 0 not supported in combination with dynamic path
+TIME	48.970
+SIM_END		Endurance_IPG	48.97s	404.598m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:57:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935657
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		Traffic object 0: Longitudinal step 0 in maneuver 0 not supported in combination with dynamic path
+TIME	48.970
+SIM_END		Endurance_IPG	48.97s	404.598m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 00:58:55
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935735
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		Traffic object 0: Longitudinal step 0 in maneuver 0 not supported in combination with dynamic path
+TIME	41.943
+SIM_END		Endurance_IPG	41.94s	346.439m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:00:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935826
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:00:43
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935843
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:00:57
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935857
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:01:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Traffic 0 AutoDrv: Invalid vehicle dynamics value maximum velocity
+ERROR		Can't get parameters of traffic object 0 (2)
+		Current random seed value = 1775935909
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Endurance_IPG	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:02:34
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935954
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:02:46
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935966
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Endurance_IPG	2026-04-12 01:02:59
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775935979
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:49:54
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775938794
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	3.089
+SIM_END		Endurance_IPG	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:50:32
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775938832
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:51:05
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775938865
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	19.683
+SIM_END		Endurance_IPG	19.68s	58.8863m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:52:32
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775938952
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+WARNING		RSDA client not running on simulation start!
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:53:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775938980
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	7.646
+SIM_END		Endurance_IPG	7.646s	63.0178m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A25:10.21.80.54.128 registered (port 11500)
+SIM_START	Endurance_IPG	2026-04-12 01:53:36
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775939016
+TIME	0.000
+SIMULATE	Endurance_IPG
+
+TIME	60.003
+SIM_END		Endurance_IPG	60.003s	55.1463m

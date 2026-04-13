@@ -1,0 +1,24 @@
+[2026-04-12 15:45:29.297] [Application] [info] GPUSensor Server running: host=harsh port=11500
+[2026-04-12 15:45:48.518] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-12 15:45:48.669] [Application] [info] Loading Installed scripts...
+[2026-04-12 15:45:48.670] [Application] [info] Loading User scripts...
+[2026-04-12 15:45:48.671] [Application] [info] Loading project scripts...
+[2026-04-12 15:45:55.882] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-12 15:45:56.022] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.97):20476
+[2026-04-12 15:45:56.124] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-12 15:45:56.161] [Application] [info] RSDA Server running: host=harsh port=2211
+[2026-04-12 15:45:56.742] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-12 15:45:56.879] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.objinfo. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:45:56.880] [Application] [warning] Could not find file TeamID_TeamName_Movie/TeamID_TeamName.node. Search paths: C:/Users/harsh/Desktop/a_baja_simulation/MovieNX/data/,C:/IPG/movienx/win64-15.0/data
+[2026-04-12 15:45:56.880] [Application] [warning] EgoVehicle: missing 'body_B' node!
+[2026-04-12 15:45:56.880] [Application] [warning] EgoVehicle: missing 'body_A2B' node!
+[2026-04-12 15:45:56.919] [Application] [info] node wheel_carrier.fl missing in EgoVehicle, using dummy instead
+[2026-04-12 15:45:56.919] [Application] [warning] EgoVehicle: wheel carrier  has no child node
+[2026-04-12 15:45:56.920] [Application] [info] node wheel_carrier.fr missing in EgoVehicle, using clone instead
+[2026-04-12 15:45:56.920] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.fr has no child node
+[2026-04-12 15:45:56.920] [Application] [info] node wheel_carrier.rl missing in EgoVehicle, using clone instead
+[2026-04-12 15:45:56.920] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rl has no child node
+[2026-04-12 15:45:56.920] [Application] [info] node wheel_carrier.rr missing in EgoVehicle, using clone instead
+[2026-04-12 15:45:56.920] [Application] [warning] EgoVehicle: wheel carrier wheel_carrier.rr has no child node
+[2026-04-12 15:45:56.933] [Application] [info] RSDA plugin: the sensor configuration uses no plugin
+[2026-04-12 15:50:00.488] [Application] [info] APO Client: Disconnecting...

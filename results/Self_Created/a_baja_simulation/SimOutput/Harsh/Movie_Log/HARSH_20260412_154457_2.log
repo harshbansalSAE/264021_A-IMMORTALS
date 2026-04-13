@@ -1,0 +1,3 @@
+2026-04-12 15:45:03.244  headless     INFO GPUSensor_2_0@HARSH --> 15.0 2025-11-17 (Windows NT 10.0  64-Bit)
+2026-04-12 15:45:10.721  general      EROR Couldn't open socket for GPUSensor 2 (port 2211)
+2026-04-12 15:45:13.346  headless     INFO GPUSensor_2_0@HARSH --> Scene loaded

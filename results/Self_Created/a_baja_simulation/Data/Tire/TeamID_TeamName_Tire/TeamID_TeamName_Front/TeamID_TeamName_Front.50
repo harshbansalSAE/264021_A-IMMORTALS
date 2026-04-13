@@ -1,0 +1,40 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Tire-RTTire 3
+FileCreator = tireutil v14.0.1, 2025-05-22, 23:04:15
+CreateArgs = -if TeamID_TeamName_Front.50.tdx -of TeamID_TeamName_Front.50 
+
+Description:
+	Created with IPG Tire Data Set Generator - Version Date: 2021-04-06
+	Generated - not validated - Tire data
+	Based on 'TeamID_TeamName_Front.50.tdx'
+	""
+	#   Load:      32 points [ 0 N  to  7500 N ]
+	#   Slip:     128 points [ -0.15   to  0.15 ]
+	#   Alpha:    128 points [ -12 deg  to  12 deg ]
+
+Side = left
+muRoad = 1
+
+Radial.Stiffness = 40800
+Radial.Damping = 400
+
+KinRollRadius = 0.27
+NomRadius = 0.2794
+NomWidth = 0.175
+AspectRatio = 0.8
+
+FLoadMax = 6000
+
+LongFrc.Length = 0.05
+SideFrc.Length = 0.1
+AlignTrq.Length = 0.1
+
+StandStill.cLong = 0.01
+StandStill.cSide = 0.2
+
+
+RollResist.Kind = TrqLoad
+RollResist.Factor = 0.0214
+
+BinFName = TeamID_TeamName_Front.50.bin
+

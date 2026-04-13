@@ -1,0 +1,177 @@
+Logfile - Project update to CarMaker for Simulink 15.0
+===============================================================================
+
+Start: 2026-04-12 12:11:04
+
+Cleaning up temporary files...
+  Deleting temporary Test Run, Vehicle and Trailer files
+  Deleting temporary files in road cache
+  >> Finished.
+
+Creating source code backup ...
+  src/.project
+  -  Info: Copied file to src/.project_20260412_1211
+  src/.settings/org.eclipse.cdt.core.prefs
+  -  Info: Copied file to src/.settings/org.eclipse.cdt.core_20260412_1211.prefs
+  src/makefile.defs
+  -  Info: Copied file to src/makefile_20260412_1211.defs
+  src_cm4sl/.project
+  -  Info: Copied file to src_cm4sl/.project_20260412_1211
+  src_cm4sl/.settings/org.eclipse.cdt.core.prefs
+  -  Info: Copied file to src_cm4sl/.settings/org.eclipse.cdt.core_20260412_1211.prefs
+  src_cm4sl/generic.mdl
+  -  Info: Copied file to src_cm4sl/generic_20260412_1211.mdl
+  src_cm4sl/makefile.defs
+  -  Info: Copied file to src_cm4sl/makefile_20260412_1211.defs
+  7 source code files have been copied
+  >> Finished.
+
+Deleting cached .node files of imported Movie NX assets...
+  0 Files deleted.
+  >> Finished.
+
+Deleting old unmodified template files...
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB.mp4
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB.rrscenario
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB.rrscene
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB_IPG.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB_IPG.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB_IPG.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/AEB_IPG.xosc
+  Data/OpenSCENARIO/Mandatory_Scenarios/AEB/README.md
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.mp4
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.rrscenario
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.rrscene
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance.xosc
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance_IPG.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance_IPG.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance_IPG.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/Endurance/Endurance_IPG.xosc
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.mp4
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.rrscenario
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.rrscene
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA.xosc
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA_IPG.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA_IPG.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA_IPG.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/LKA_IPG.xosc
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/README.md
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/scenario.geojson
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/scenario.osgb
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/scenario.xodr
+  Data/OpenSCENARIO/Mandatory_Scenarios/LKA/scenario.xosc
+  35 Files deleted, 0 errors occurred
+  >> Finished.
+
+Copying new files to project directory...
+  351 Files copied, 0 errors occurred
+  >> Finished.
+
+Converting Simulink models...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting FMUs...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Test Runs and TestSeries...
+  Data/TestRun/BSI25_aBAJA_ACC/BSI25_aBAJA_ACC_1
+  Data/TestRun/BSI25_aBAJA_ACC/BSI25_aBAJA_ACC_2
+  Data/TestRun/BSI25_aBAJA_ACC/BSI25_aBAJA_ACC_3
+  Data/TestRun/BSI25_aBAJA_ACC/BSI25_aBAJA_ACC_4
+  Data/TestRun/BSI25_aBAJA_ACC/BSI25_aBAJA_ACC_5
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_1
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_2
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_3
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_4
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_4_modified
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_5
+  Data/TestRun/BSI25_aBAJA_AEB/BSI25_aBAJA_AEB_5_modified
+  Data/TestRun/BSI25_aBAJA_LKA/BSI25_aBAJA_LKA_1
+  Data/TestRun/BSI25_aBAJA_LKA/BSI25_aBAJA_LKA_2
+  Data/TestRun/BSI25_aBAJA_LKA/BSI25_aBAJA_LKA_3
+  Data/TestRun/BSI25_aBAJA_LKA/BSI25_aBAJA_LKA_4
+  Data/TestRun/BSI25_aBAJA_LKA/BSI25_aBAJA_LKA_5
+  Data/TestRun/BSI25_aBAJA_TLSD/BSI25_aBAJA_TLSD_1
+  Data/TestRun/BSI25_aBAJA_TLSD/BSI25_aBAJA_TLSD_2
+  Data/TestRun/BSI25_aBAJA_TLSD/BSI25_aBAJA_TLSD_3
+  Data/TestRun/BSI25_aBAJA_TLSD/BSI25_aBAJA_TLSD_4
+  Data/TestRun/BSI25_aBAJA_TLSD/BSI25_aBAJA_TLSD_5
+  Data/TestRun/DBWTest
+  Data/TestRun/Endurace_1.rd5
+  -  Error: Unable to load road file
+  Data/TestRun/Endurance1
+  Data/TestRun/Endurance_Revised.unknown
+  Data/TestRun/ObjectDetectionTest
+  Data/TestRun/ROSTest
+  Data/TestRun/StraightRoadLaneDetection
+  28 Files converted, 1 errors occurred
+  >> Finished.
+
+Converting IPGRoad files...
+  Data/Road/.tmp_DESKTOP-BU2VDA6_VASANTH KRISHNAN.1
+  Data/Road/.tmp_Harsh-PC_harsh.0
+  Data/Road/.tmp_Rhythm_Rhythm.1
+  Data/Road/.tmp__Rhythm.1
+  Data/Road/.tmp__VASANTH KRISHNAN.0
+  Data/Road/.tmp__harsh.0
+  Data/Road/BSI25_ACC_Road/BSI25_ACC_3.rd5
+  Data/Road/BSI25_ACC_Road/BSI25_ACC_4.rd5
+  Data/Road/BSI25_ACC_Road/BSI25_ACC_5.rd5
+  Data/Road/BSI25_AEB_Road/BSI25_aBAJA_AEB_3_modified.rd5
+  Data/Road/BSI25_AEB_Road/BSI25_aBAJA_AEB_5.rd5
+  Data/Road/BSI25_AEB_Road/BSI25_aBAJA_AEB_5_modified.rd5
+  12 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Vehicle files...
+  Data/Vehicle/.tmp_vehicle_startpos_DESKTOP-BU2VDA6_VASANTH KRISHNAN
+  Data/Vehicle/.tmp_vehicle_startpos_Harsh-PC_harsh
+  Data/Vehicle/.tmp_vehicle_startpos__VASANTH KRISHNAN
+  Data/Vehicle/Examples/Demo_IPG_CompanyCar_ModularPT_EV
+  Data/Vehicle/Examples/Demo_IPG_CompanyCar_ModularPT_EV_Radar
+  Data/Vehicle/IPG_Vehicle_EV_Modified_for_aBAJA
+  Data/Vehicle/TeamID_TeamName_Vehicle/TeamID_TeamName.car
+  7 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Trailer files...
+  Data/Trailer/.tmp_trailer_startpos__VASANTH KRISHNAN
+  1 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting sensor material files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting external sensor parametrization files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Tire files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting configuration files...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting IO Configurations...
+  0 Files converted, 0 errors occurred
+  >> Finished.
+
+Converting Scenario Editor template files...
+  >> Finished.
+
+-------------------------------------------------------------------------------
+Update finished. 1 errors occurred.
+-------------------------------------------------------------------------------
+
+End: 2026-04-12 12:12:48

@@ -1,0 +1,21 @@
+[2026-04-10 22:32:54.726] [Application] [info] GPUSensor Server running: host=harsh port=11500
+[2026-04-10 22:33:10.568] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-10 22:33:10.700] [Application] [info] Loading Installed scripts...
+[2026-04-10 22:33:10.701] [Application] [info] Loading User scripts...
+[2026-04-10 22:33:10.701] [Application] [info] Loading project scripts...
+[2026-04-10 22:51:27.619] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-10 22:51:27.754] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.53):29076
+[2026-04-10 22:51:27.839] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:51:28.065] [Application] [info] Using Ray Tracing Sensors Library version: 15.0.28 Nov 12 2025 - 16:19:39
+[2026-04-10 22:51:28.073] [Application] [info] RSDA Server running: host=harsh port=2212
+[2026-04-10 22:51:28.639] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.0
+[2026-04-10 22:51:29.994] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 22:51:46.252] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:51:47.026] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-10 22:52:11.248] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 22:58:07.006] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:00:52.992] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:00:53.747] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-10 23:02:43.239] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:02:43.983] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/.tmp_Harsh_harsh.1
+[2026-04-10 23:03:14.203] [Application] [info] APO Client: Disconnecting...

@@ -1,0 +1,40 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	11/04	2026-04-11 04:23:52
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Ego vehicle, Man 0, lat. Step 0: Invalid tracking step parameters
+		Current random seed value = 1775861632
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	11/04	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	11/04	2026-04-11 04:25:20
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775861720
+TIME	0.000
+SIMULATE	11/04
+
+TIME	28.447
+SIM_END		11/04	28.447s	222.1m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	11/04	2026-04-11 04:26:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+		Current random seed value = 1775861764
+TIME	0.000
+SIMULATE	11/04
+
+TIME	28.447
+SIM_END		11/04	28.447s	222.1m

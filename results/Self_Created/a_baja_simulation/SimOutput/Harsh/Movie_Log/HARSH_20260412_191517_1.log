@@ -1,0 +1,24 @@
+2026-04-12 19:15:23.107  headless     INFO GPUSensor_1_0@HARSH --> 15.0 2025-11-17 (Windows NT 10.0  64-Bit)
+2026-04-12 19:15:51.178  headless     INFO GPUSensor_1_0@HARSH --> RSDS client connected (53616@127.0.0.1)
+2026-04-12 19:15:51.966  headless     INFO GPUSensor_1_0@HARSH --> 
+------------------------------+
+ RSI Sensors for GPUSensor #1 |
+-------------+---------+----------+-----------------------------
+2026-04-12 19:15:51.966  headless     INFO GPUSensor_1_0@HARSH -->   Type        | Name    | Instance | For this GPUSensor instance
+-------------+---------+----------+-----------------------------
+2026-04-12 19:15:51.966  headless     INFO GPUSensor_1_0@HARSH -->  Radar RSI     Vhcl.VehSensor_1     1       yes
+2026-04-12 19:15:51.966  headless     INFO GPUSensor_1_0@HARSH --> using CUDA device #0
+2026-04-12 19:15:53.372  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 19:15:55.195  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 19:15:58.888  general      EROR Error in GPUSensor Version 15.0 can't read "Scene(Route.Veh.Eval)": no such element in array
+2026-04-12 19:15:58.888  general      EROR can't read "Scene(Route.Veh.Eval)": no such element in array
+    while executing
+"RayTracer render $Scene(Route.Veh.Eval)"
+    (procedure "RayTracerGlue::OnUpdateView" line 30)
+    invoked from within
+"RayTracerGlue::OnUpdateView"
+    (procedure "UpdateSensor_TimerProc" line 24)
+    invoked from within
+"UpdateSensor_TimerProc"
+    ("after" script)
+2026-04-12 19:16:16.787  headless     INFO GPUSensor_1_0@HARSH --> Simulation stopped at 0

@@ -1,0 +1,26 @@
+[2026-04-10 21:36:50.030] [Application] [info] GPUSensor Server running: host=harsh port=11501
+[2026-04-10 21:37:08.477] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-10 21:37:08.642] [Application] [info] Loading Installed scripts...
+[2026-04-10 21:37:08.644] [Application] [info] Loading User scripts...
+[2026-04-10 21:37:08.646] [Application] [info] Loading project scripts...
+[2026-04-10 21:37:10.114] [Application] [warning] Socket Error in CarMaker GUI Client: The remote host closed the connection.
+[2026-04-10 21:37:17.896] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-10 21:37:18.027] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.53):15660
+[2026-04-10 21:37:18.099] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 21:37:18.473] [Application] [info] Using Ray Tracing Sensors Library version: 15.0.28 Nov 12 2025 - 16:19:39
+[2026-04-10 21:37:18.481] [Application] [info] RSDA Server running: host=harsh port=2212
+[2026-04-10 21:37:19.015] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 21:37:28.649] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 21:41:27.235] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 22:03:05.455] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:03:06.239] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 22:03:06.485] [Application] [error] configuration check failed
+[2026-04-10 22:03:06.485] [Application] [error] Could not initialize raytracing sensor cluster.
+[2026-04-10 22:03:29.547] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 22:03:37.437] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:03:38.035] [Application] [warning] Quantity VC.Lights.bm was rejected. Probably it is not available in the simulation?
+[2026-04-10 22:03:50.148] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 22:03:58.299] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:04:26.480] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:07:40.244] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 22:10:21.692] [Application] [info] APO Client: Disconnecting...

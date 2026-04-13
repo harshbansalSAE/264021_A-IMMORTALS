@@ -1,0 +1,49 @@
+[2026-04-10 23:12:39.287] [Application] [info] GPUSensor Server running: host=harsh port=11500
+[2026-04-10 23:12:56.785] [Application] [info] Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+[2026-04-10 23:12:56.939] [Application] [info] Loading Installed scripts...
+[2026-04-10 23:12:56.940] [Application] [info] Loading User scripts...
+[2026-04-10 23:12:56.941] [Application] [info] Loading project scripts...
+[2026-04-10 23:13:41.882] [Application] [warning] Socket Error in GPUSensor Server: The remote host closed the connection.
+[2026-04-10 23:13:42.035] [Application] [info] APO: Successfully connected to: CarMaker 15.0 - Car_Generic @ Harsh(10.21.80.53):11944
+[2026-04-10 23:13:42.140] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:13:42.490] [Application] [info] Using Ray Tracing Sensors Library version: 15.0.28 Nov 12 2025 - 16:19:39
+[2026-04-10 23:13:42.531] [Application] [info] RSDA Server running: host=harsh port=2212
+[2026-04-10 23:13:42.997] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:17:00.947] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:17:01.748] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:27:01.864] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:27:02.644] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:29:01.321] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:42:30.427] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:42:31.196] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:42:41.070] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:44:00.357] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:44:01.036] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:44:07.782] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:45:37.236] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:45:37.963] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:45:44.714] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:47:03.823] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:47:04.560] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:47:31.956] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:47:32.699] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:47:55.357] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:49:57.586] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-10 23:58:42.322] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:58:42.972] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-10 23:59:44.383] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-10 23:59:45.133] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:00:19.877] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-11 00:00:20.611] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:02:29.326] [Application] [warning] Socket Error in RSDA Server: The remote host closed the connection.
+[2026-04-11 00:02:53.372] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-11 00:02:54.107] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:11:18.502] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-11 00:11:19.235] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:13:37.175] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-11 00:13:37.902] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:15:19.383] [Application] [info] Loaded Path Mapping with 0 mapped directories. Set CarMaker home dir to 'C:/IPG/carmaker/win64-15.0'
+[2026-04-11 00:15:20.123] [Application] [info] Loading Test Run from path C:/Users/harsh/Desktop/a_baja_simulation/Data/TestRun/Man_Autonomous_10/04
+[2026-04-11 00:40:32.639] [Qt] [warning] "Unable to open monitor interface to \\\\.\\DISPLAY1:" "The operation completed successfully."
+[2026-04-11 01:39:47.625] [Application] [info] APO Client: Disconnecting...
+[2026-04-11 01:42:03.493] [Application] [info] APO Client: Disconnecting...

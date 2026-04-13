@@ -1,0 +1,5 @@
+2026-04-12 12:26:56.129  headless     INFO GPUSensor_1_0@HARSH --> 15.0 2025-11-17 (Windows NT 10.0  64-Bit)
+2026-04-12 12:27:01.751  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:27:08.660  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:27:08.661  general      WARN RSDS client not running on simulation start.
+2026-04-12 12:27:15.721  headless     INFO GPUSensor_1_0@HARSH --> Simulation stopped at 6.96

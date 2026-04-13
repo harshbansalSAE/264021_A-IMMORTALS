@@ -1,0 +1,144 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = IPGRoad 15.0
+FileCreator = roadutil 15.0
+Description:
+	Converted OpenDRIVE File (Revision 1.7)
+	Original File: C:\\Users\\harsh\\Desktop\\a_baja_simulation\\Data\\OpenSCENARIO\\Mandatory_Scenarios\\Endurance\\Endurance_IPG.xodr
+	Version: 1
+LibVersion = 15.0
+Country = DEU
+nLinks = 1
+nJunctions = 0
+nObjects = 111
+nRoutes = 0
+RoadNetworkLength = 1002.301
+BBox = -500.000 500.000 -12.474 15.975 -1.000 1.000
+RST.Unit = mph
+RST = 31.0685595833333 62.1371191666667 -1 18.64113575 43.4959834166667 31.0685595833333 -1 -1
+Movie = 0.2 1 0.01 0 0 1 1
+Visualization.SamplingParams = 0.2 1 0.01
+Visualization.RoadsideWidth = 0 0
+Visualization.RoadsideSlope = 1 1
+Visualization.MovieNX.RenderMask = 65535
+PathMode = 1
+Link.0.ID = 0
+Link.0.Node0 = -500 0 0
+Link.0.Node1 = 499.99980012583 -6.96645283024945e-13 -5.059725135225e-14
+Link.0.RST = Urban
+Link.0.Tag = odrRoadId:0
+Link.0.RL.ID = 1
+Link.0.Seg.0.ID = 3
+Link.0.Seg.0.Type = PointList
+Link.0.Seg.0.Param = 1 0 1 0 0 0 0 0
+Link.0.Seg.0.Curve.ID = 4
+Link.0.Seg.0.Curve.Points:
+	5 -1 -500 0 0 0 0 100 0 0
+	6 -1 -475.495097567964 0 0 0 0 100 0 24.5049024320361
+Link.0.Seg.1.ID = 7
+Link.0.Seg.1.Type = TurnRight
+Link.0.Seg.1.Param = 257.475487839819 11.3099324740202 0 0 0 0 0 0
+Link.0.Seg.2.ID = 10
+Link.0.Seg.2.Type = TurnLeft
+Link.0.Seg.2.Param = 127.47548783982 22.6198649480404 0 0 0 0 0 0
+Link.0.Seg.3.ID = 13
+Link.0.Seg.3.Type = PointList
+Link.0.Seg.3.Param = 0.98058067569092 0.196116135138184 1 0 0 0 0 0
+Link.0.Seg.3.Curve.ID = 14
+Link.0.Seg.3.Curve.Points:
+	15 -1 -375 -5.00000000000006 0 0 0 100 11.3099324740202 0
+	16 -1 -325 5 0 0 0 100 11.3099324740202 50.9901951359278
+Link.0.Seg.4.ID = 17
+Link.0.Seg.4.Type = TurnRight
+Link.0.Seg.4.Param = 127.47548783982 22.6198649480404 0 0 0 0 0 0
+Link.0.Seg.5.ID = 20
+Link.0.Seg.5.Type = TurnLeft
+Link.0.Seg.5.Param = 257.47548783982 11.3099324740202 0 0 0 0 0 0
+Link.0.Seg.6.ID = 23
+Link.0.Seg.6.Type = Straight
+Link.0.Seg.6.Param = 724.504702557866 0 0 0 0 0 0 0
+Link.0.LateralCenterLineOffset.ID = 39
+Link.0.LateralCenterLineOffset.Param = 0
+Link.0.LateralCenterLineOffset.Points:
+	40 0 0 0 0 0 0 0 4
+	41 0 0 1 0 0 0 0 4
+Link.0.LaneSection.0.ID = 42
+Link.0.LaneSection.0.Start = 0
+Link.0.LaneSection.0.LaneL.0.ID = 44
+Link.0.LaneSection.0.LaneL.0 = 0 0 0 0
+Link.0.LaneSection.0.LaneL.0.ARP = 45 46 47 48 49 50
+Link.0.LaneSection.0.LaneL.0.Width.ID = 52
+Link.0.LaneSection.0.LaneL.0.Width.Param = 0
+Link.0.LaneSection.0.LaneL.0.Width.Points:
+	53 44 0 0 3.5 0 0 0 4
+	54 44 0 1 3.5 0 0 0 4
+Link.0.LaneSection.0.LaneL.1.ID = 57
+Link.0.LaneSection.0.LaneL.1 = 0 0 0 0
+Link.0.LaneSection.0.LaneL.1.ARP = 58 59 60 61 62 63
+Link.0.LaneSection.0.LaneL.1.Width.ID = 65
+Link.0.LaneSection.0.LaneL.1.Width.Param = 0
+Link.0.LaneSection.0.LaneL.1.Width.Points:
+	66 57 0 0 3.5 0 0 0 4
+	67 57 0 1 3.5 0 0 0 4
+Link.0.LaneSection.0.LaneL.2.ID = 69
+Link.0.LaneSection.0.LaneL.2 = 20 0 0 0
+Link.0.LaneSection.0.LaneL.2.ARP = 70 71 72 73 74 75
+Link.0.LaneSection.0.LaneL.2.Width.ID = 77
+Link.0.LaneSection.0.LaneL.2.Width.Param = 0
+Link.0.LaneSection.0.LaneL.2.Width.Points:
+	78 69 0 0 0.5 0 0 0 4
+	79 69 0 1 0.5 0 0 0 4
+Link.0.LaneSection.0.LaneL.3.ID = 105
+Link.0.LaneSection.0.LaneL.3 = 5 0 0 0
+Link.0.LaneSection.0.LaneL.3.Width.ID = 106
+Link.0.LaneSection.0.LaneL.3.Width.Param = 0
+Link.0.LaneSection.0.LaneL.3.Width.Points:
+	107 105 0 0 1 0 -999 -999 0
+	108 105 0 1 1 0 -999 -999 0
+Link.0.LaneSection.0.LaneR.0.ID = 81
+Link.0.LaneSection.0.LaneR.0 = 0 0 0 0
+Link.0.LaneSection.0.LaneR.0.ARP = 82 83 84 85 86 87
+Link.0.LaneSection.0.LaneR.0.Width.ID = 89
+Link.0.LaneSection.0.LaneR.0.Width.Param = 0
+Link.0.LaneSection.0.LaneR.0.Width.Points:
+	90 81 0 0 3.5 0 0 0 4
+	91 81 0 1 3.5 0 0 0 4
+Link.0.LaneSection.0.LaneR.1.ID = 93
+Link.0.LaneSection.0.LaneR.1 = 20 0 0 0
+Link.0.LaneSection.0.LaneR.1.ARP = 94 95 96 97 98 99
+Link.0.LaneSection.0.LaneR.1.Width.ID = 101
+Link.0.LaneSection.0.LaneR.1.Width.Param = 0
+Link.0.LaneSection.0.LaneR.1.Width.Points:
+	102 93 0 0 0.5 0 0 0 4
+	103 93 0 1 0.5 0 0 0 4
+Link.0.LaneSection.0.LaneR.2.ID = 109
+Link.0.LaneSection.0.LaneR.2 = 5 0 0 0
+Link.0.LaneSection.0.LaneR.2.Width.ID = 110
+Link.0.LaneSection.0.LaneR.2.Width.Param = 0
+Link.0.LaneSection.0.LaneR.2.Width.Points:
+	111 109 0 0 1 0 -999 -999 0
+	112 109 0 1 1 0 -999 -999 0
+Link.0.ElevationProfile.ID = 2
+Link.0.ElevationProfile.Param = 0
+Link.0.ElevationProfile.Height.ID = 113
+Link.0.ElevationProfile.Height.Param = 0
+Link.0.ElevationProfile.Height.Points:
+	114 2 0 0 0 0 0 0 4
+	115 2 0 1 0 0 0 0 4
+LanePath.0 = 51 44 2.75 1 0 0 -1 -1
+LanePath.1 = 64 57 2 10 0.1 0.1 -1 -1
+LanePath.2 = 76 69 -1 10 0.1 0.1 -1 -1
+LanePath.3 = 88 81 2 10 0.1 0.1 -1 -1
+LanePath.4 = 100 93 -1 10 0.1 0.1 -1 -1
+RL.1.RoadMarking.0.ID = 43 42
+RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.125 0 4 0 0 0 0 1 1 0
+RL.1.RoadMarking.0.Material.0 = yellow 0 0 0 0 0 0 0 0 0 0 0
+RL.1.RoadMarking.1.ID = 55 44
+RL.1.RoadMarking.1 = 0 0 0 1 0 1 0.125 0 1 0 0 0 0 1 1 0
+RL.1.RoadMarking.1.Material.0 = white 0 0 0 0 0 0 0 0 0 0 0
+RL.1.Marker.0.ID = 37 1
+RL.1.Marker.0.Type = DrvSpeed
+RL.1.Marker.0.Param = 0 0 1 40 mph
+RL.1.Marker.1.ID = 38 1
+RL.1.Marker.1.Type = DrvSpeed
+RL.1.Marker.1.Param = 0 1 -1 40 mph
+MaxUsedObjId = 115

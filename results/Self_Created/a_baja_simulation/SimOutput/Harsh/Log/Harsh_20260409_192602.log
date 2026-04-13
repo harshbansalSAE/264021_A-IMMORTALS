@@ -1,0 +1,1044 @@
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:29:47
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	2.361
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:30:40
+TIME	0.001
+ERROR		FMU 'MyBattery_FMU': File 'C:/Users/harsh/Desktop/a_baja_simulation/Plugins/MyBattery_FMU/modelDescription.xml' missing, please (re-)import FMU
+ERROR		PowerTrain.PowerSupply.BattLV: Unknown kind 'MyBattery_FMU', version 1
+ERROR		PowerTrain.PowerSupply LV_HV1: Failed to initialize LV battery
+ERROR		Traffic Light 0 start condition: unknown var "Traffic.Ahead.sRoad"
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:33:09
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	3.718
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:42:39
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	32.778
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	32.775s	554.896m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:43:21
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	6.306
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	6.303s	151.276m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:49:54
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	29.446
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	29.443s	480.912m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:51:38
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+ERROR		Vehicle leaves road at about x=43.3914, y=-10.4927 TireNo=0
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	1.134s	25.5868m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:52:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+ERROR		Vehicle leaves road at about x=43.3914, y=-10.4927 TireNo=0
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	1.134s	25.5868m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 19:52:45
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+ERROR		Vehicle leaves road at about x=52.4805, y=-15.1862 TireNo=0
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	1.52s	35.0938m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:09:11
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	109.717
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	109.714s	913.085m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:12:52
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	84.807
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	84.804s	705.514m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:15:42
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	19.674
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	19.671s	326.997m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:25:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	50.387
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	50.384s	466.688m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:30:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	54.960
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	54.957s	479.185m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:31:10
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	14.250
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	14.247s	258.096m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:31:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	77.633
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	77.63s	648.679m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:33:12
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	215.502
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	215.499s	1794.4m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:38:32
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	12.904
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	12.901s	241.454m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:38:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	2.658
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	2.655s	56.9215m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:39:07
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	45.588
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	45.585s	505.33m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:40:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	19.052
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	19.049s	327.523m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:40:39
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	53.035
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	53.032s	616.108m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:42:15
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	32.532
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	32.529s	271.69m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:43:32
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	48.013
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	48.01s	399.249m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:44:33
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	10.158
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	10.155s	57.6365m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:44:49
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	10.889
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	10.886s	57.6375m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:47:17
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	21.953
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	21.95s	57.7905m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:47:45
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Ego Vehicle, Maneuver 0: No maneuver steps defined
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:48:11
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	11.968
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	11.965s	57.7838m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:51:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	19.100
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	19.097s	57.8295m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:52:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	5.223
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	5.22s	57.7848m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:54:27
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	29.724
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	29.721s	528.44m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:55:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	7.774
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	7.771s	164.931m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:55:38
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0.003s	0.0222222m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 20:55:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0.003s	0.0222222m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:00:18
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0.003s	0.0222222m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:00:40
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	47.998
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	47.995s	749.895m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:02:21
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	9.138
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	9.135s	26.5047m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:02:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	20.953
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	20.95s	26.5075m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:04:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	92.716
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	92.713s	28.0167m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:05:53
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	34.098
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	34.095s	28.0148m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:06:34
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	10.368
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	10.365s	28.0094m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:07:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	164.715
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	164.712s	27.7972m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:10:14
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	5.153
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	5.15s	0.000252659m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:12:34
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	24.849
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	24.846s	0.00167886m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:13:15
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	27.696
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	27.693s	0.00245394m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:14:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	45.971
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	45.968s	0.0029969m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:15:28
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	43.554
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	43.551s	0.0029278m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:16:18
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	21.958
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	21.955s	177.602m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:17:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	94.623
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	94.62s	787.544m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:18:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	21.119
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	21.116s	181.487m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:19:22
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	32.958
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	32.955s	236.134m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:20:04
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	103.399
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	103.396s	801.953m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:20:36
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	134.535
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	134.532s	1116.03m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:21:15
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	95.918
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	95.915s	785.264m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:35:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	118.782
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	118.779s	976.327m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:39:00
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	35.752
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	35.749s	279.307m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:39:45
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	163.438
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	163.435s	1348.86m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:43:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	993.409
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	993.406s	11182.5m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:47:21
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	442.005
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	442.002s	5293.11m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:50:56
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Traffic object 0: Invalid Route ObjId
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:51:30
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		Traffic object 0: Invalid Route ObjId
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 21:52:23
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	93.132
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	93.129s	851.224m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:06:48
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:07:26
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:08:19
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:09:51
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	140.769
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	140.766s	1159.79m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:12:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:18:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:19:06
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	321.893
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	321.89s	2669.58m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A6:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:31:14
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+		A8:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:58:24
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	45.666
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	45.663s	363.168m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A8:10.21.81.60.128 registered (port 11500)
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:59:13
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	33.543
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	33.54s	260.408m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A8:10.21.81.60.128 registered (port 11500)
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 22:59:41
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	131.783
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	131.78s	1084.82m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+		DVA read: Unknown quantity 'Sensor.RadarRSI.Vhcl.VehSensor_0.nDetections'
+		A9:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-09 23:58:56
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	190.087
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	190.084s	1571.02m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-10 00:07:02
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	19.735
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	19.732s	142.464m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A9:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-10 00:07:38
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	408.428
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	408.425s	3390.73m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+WARNING		Connect failed. No connection could be made because the target machine actively refused it.
+WARNING		TCP connection not established in time. t > 20.00s (ConnectTimeout_s). No connection could be made because the target machine actively refused it.
+WARNING		Could not connect to harsh:11500
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-10 00:14:27
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+ERROR		GPUSensor: Instance 128 has not registered with the SimProg
+ERROR		SensorCluster: Could not get GPUSensor ID Mapping.
+ERROR		CM_Main.cpp: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	0s	0m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-10 00:15:30
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+WARNING		RSDA client not running on simulation start!
+TIME	47.801
+SIM_END		Examples/BasicFunctions/Traffic/Man_Autonomous	47.798s	381.212m
+APPLICATION	CarMaker 15.0 - Car_Generic #5 (win64-15.0)
+COMPILED	jetbrains@02480bbb4087 2025-11-17 12:42:15
+ 
+		I/O Configuration: default
+		A11:10.21.81.60.128 registered (port 11500)
+SIM_START	Examples/BasicFunctions/Traffic/Man_Autonomous	2026-04-10 00:33:37
+TIME	0.001
+		Environment Generic: model disabled for entire Test Run (works only on route)
+		Road Sensor: evaluation of route/path disabled (works only on route)
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Autonomous
+
+TIME	2053.980
+ERROR		GPUSensor A11:10.21.81.60.128: Connection lost
+SIM_ABORT	Examples/BasicFunctions/Traffic/Man_Autonomous	2053.98s	17104.6m

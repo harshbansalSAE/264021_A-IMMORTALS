@@ -1,0 +1,1066 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Car 15
+FileCreator = CarMaker for Simulink 15.0
+
+
+## Assembly ##############################################################
+
+RefPointInputSystem = 0.0 0.0 0.0
+Description:
+	Typical, unvalidated data for a passenger car
+	with 2 electric motors (1 front, 1 rear)
+	as a Modular PT model
+	Tire: RT 255/35 R20, RT 295/30 R20
+
+Eng.Kind = Rigid
+Eng.Joint.pos = 0.0 0.0 0.0
+Eng.Orientation = 0.0 0.0 0.0
+
+Hitch.System =
+Hitch.pos = -0.1 0.0 0.4
+Jack.fl.pos = 3.048 0.793 0.313
+Jack.fr.pos = 3.048 -0.793 0.313
+Jack.rl.pos = 1.364 0.814 0.313
+Jack.rr.pos = 1.364 -0.814 0.313
+Virtual.PoA = 2.206 0.000 0.498
+
+WheelCarrier.fl.mass = 15.5
+WheelCarrier.fl.I = 0.25 0.25 0.25 -0.0 -0.0 -0.0
+WheelCarrier.fl.pos = 3.517 0.803 0.313
+WheelCarrier.fr.mass = 15.5
+WheelCarrier.fr.I = 0.25 0.25 0.25 -0.0 -0.0 -0.0
+WheelCarrier.fr.pos = 3.517 -0.803 0.313
+WheelCarrier.rl.mass = 29.0
+WheelCarrier.rl.I = 0.35 0.35 0.35 -0.0 -0.0 -0.0
+WheelCarrier.rl.pos = 0.895 0.844 0.313
+WheelCarrier.rr.mass = 29.0
+WheelCarrier.rr.I = 0.35 0.35 0.35 -0.0 -0.0 -0.0
+WheelCarrier.rr.pos = 0.895 -0.844 0.313
+Wheel.fl.mass = 32.0
+Wheel.fl.I = 1.0 2.0 1.0
+Wheel.fl.pos = 3.517 0.803 0.313
+Wheel.fr.mass = 32.0
+Wheel.fr.I = 1.0 2.0 1.0
+Wheel.fr.pos = 3.517 -0.803 0.313
+Wheel.rl.mass = 28.0
+Wheel.rl.I = 0.95 2.1 0.95
+Wheel.rl.pos = 0.895 0.844 0.313
+Wheel.rr.mass = 28.0
+Wheel.rr.I = 0.95 2.1 0.95
+Wheel.rr.pos = 0.895 -0.844 0.313
+
+PowerTrain.Engine.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Engine.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Engine.Bdy.Mounting = FrEng
+PowerTrain.Engine.Bdy.RefFr = FrD
+PowerTrain.Engine.Tank.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Engine.Tank.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Engine.Tank.Bdy.Mounting = Fr1A
+PowerTrain.Engine.Tank.Bdy.RefFr = FrD
+PowerTrain.Gearbox.0.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Gearbox.0.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Gearbox.0.Bdy.Mounting = FrEng
+PowerTrain.Gearbox.0.Bdy.RefFr = FrD
+PowerTrain.Gearbox.1.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Gearbox.1.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Gearbox.1.Bdy.Mounting = Fr1A
+PowerTrain.Gearbox.1.Bdy.RefFr = FrD
+PowerTrain.Gearbox.2.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Gearbox.2.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Gearbox.2.Bdy.Mounting = Fr1A
+PowerTrain.Gearbox.2.Bdy.RefFr = FrD
+PowerTrain.Gearbox.3.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Gearbox.3.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Gearbox.3.Bdy.Mounting = Fr1A
+PowerTrain.Gearbox.3.Bdy.RefFr = FrD
+PowerTrain.Gearbox.4.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Gearbox.4.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Gearbox.4.Bdy.Mounting = Fr1A
+PowerTrain.Gearbox.4.Bdy.RefFr = FrD
+PowerTrain.Motor.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Motor.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Motor.Bdy.Mounting = Fr1A
+PowerTrain.Motor.Bdy.RefFr = FrD
+PowerTrain.Motor1.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Motor1.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Motor1.Bdy.Mounting = Fr1A
+PowerTrain.Motor1.Bdy.RefFr = FrD
+PowerTrain.Motor2.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Motor2.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Motor2.Bdy.Mounting = Fr1A
+PowerTrain.Motor2.Bdy.RefFr = FrD
+PowerTrain.Motor3.Bdy.pos = 0.0 0.0 0.0
+PowerTrain.Motor3.Bdy.Ori = 0.0 0.0 0.0
+PowerTrain.Motor3.Bdy.Mounting = Fr1A
+PowerTrain.Motor3.Bdy.RefFr = FrD
+PowerTrain.PowerSupply.BattLV.Bdy.0.pos = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.0.Ori = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.0.Mounting = Fr1A
+PowerTrain.PowerSupply.BattLV.Bdy.0.RefFr = FrD
+PowerTrain.PowerSupply.BattLV.Bdy.1.pos = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.1.Ori = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.1.Mounting = Fr1A
+PowerTrain.PowerSupply.BattLV.Bdy.1.RefFr = FrD
+PowerTrain.PowerSupply.BattHV.Bdy.0.pos = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.0.Ori = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.0.Mounting = Fr1A
+PowerTrain.PowerSupply.BattHV.Bdy.0.RefFr = FrD
+PowerTrain.PowerSupply.BattHV.Bdy.1.pos = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.1.Ori = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.1.Mounting = Fr1A
+PowerTrain.PowerSupply.BattHV.Bdy.1.RefFr = FrD
+
+TrimLoad.0.mass = 0.0 0
+TrimLoad.0.I = 0.0 0.0 0.0
+TrimLoad.0.pos = 2.206 0.395 0.526
+TrimLoad.0.mounted = Fr1A
+TrimLoad.0.RefFr = FrD
+TrimLoad.0.name = Trim Load 0
+TrimLoad.1.mass = 0.0 0
+TrimLoad.1.I = 0.0 0.0 0.0
+TrimLoad.1.pos = 2.206 -0.395 0.526
+TrimLoad.1.mounted = Fr1A
+TrimLoad.1.RefFr = FrD
+TrimLoad.1.name = Trim Load 1
+
+Assembly.Comment:
+
+
+## Body ##################################################################
+
+VehicleModel = Vhcl_2Axle
+nAxle = 2
+VehicleModel.Kind = RigidBody
+VehicleModel.Mode = BodyA
+Body.mass = 1891.1
+Body.I = 552.75 3002.5 3202.8 -0.0 -0.0 -0.0
+Body.pos = 2.224 0.0 0.526
+Flex.JointFr1Fr1B.pos = 2.224 0.0 0.526
+Flex.JointFr1Fr1B.Kind = Coeff
+Flex.JointFr1Fr1B.k.x = 21541.0
+Flex.JointFr1Fr1B.k.y = 60694.0
+Flex.JointFr1Fr1B.k.x.Amplify = 1.0
+Flex.JointFr1Fr1B.k.y.Amplify = 1.0
+Flex.JointFr1Fr1B.d.x = 1077.0
+Flex.JointFr1Fr1B.d.y = 3034.7
+Flex.JointFr1Fr1B.d.x.Amplify = 1.0
+Flex.JointFr1Fr1B.d.y.Amplify = 1.0
+
+Movie.Skin.FName = 3D/Vehicles/IPG_E-CompanyCar_2022.mobj
+Picture.PicFName = IPG_CompanyCar_EV.png
+Vehicle.OuterSkin = 0.0 0.985 0.15 4.48 -0.985 1.31
+
+Aero.Kind = Coeff6x1 1
+Aero.Marker.pos = 4.482 0.0 0.526
+Aero.pos = 2.107 0.0 0.655
+Aero.Ax = 2.156
+Aero.lReference = 4.482
+Aero.Crosswind.Kind = Step
+Aero.Coeff:
+	-180.0 -0.555 -0.0 0.149 0.0 0.002 0.0
+	-160.0 -0.916 -0.333 0.226 -0.041 -0.112 0.08
+	-140.0 -1.005 -0.843 0.269 -0.198 -0.235 0.164
+	-120.0 -0.741 -1.283 0.276 -0.407 -0.235 0.163
+	-100.0 -0.241 -1.368 0.25 -0.494 -0.087 0.06
+	-90.0 0.0 -1.256 0.226 -0.461 0.0 -0.0
+	-80.0 0.227 -1.289 0.25 -0.465 0.082 -0.057
+	-70.0 0.448 -1.231 0.267 -0.424 0.154 -0.107
+	-60.0 0.63 -1.092 0.276 -0.346 0.2 -0.139
+	-50.0 0.751 -0.896 0.277 -0.251 0.21 -0.147
+	-40.0 0.798 -0.669 0.269 -0.157 0.187 -0.131
+	-30.0 0.768 -0.444 0.252 -0.08 0.139 -0.098
+	-25.0 0.728 -0.34 0.24 -0.052 0.111 -0.078
+	-20.0 0.674 -0.245 0.226 -0.03 0.083 -0.059
+	-15.0 0.607 -0.163 0.209 -0.015 0.056 -0.04
+	-10.0 0.533 -0.094 0.191 -0.006 0.032 -0.024
+	-5.0 0.452 -0.04 0.171 -0.001 0.013 -0.01
+	0.0 0.37 0.0 0.149 -0.0 -0.002 0.0
+	5.0 0.452 0.04 0.171 0.001 0.013 0.01
+	10.0 0.533 0.094 0.191 0.006 0.032 0.024
+	15.0 0.607 0.163 0.209 0.015 0.056 0.04
+	20.0 0.674 0.245 0.226 0.03 0.083 0.059
+	25.0 0.728 0.34 0.24 0.052 0.111 0.078
+	30.0 0.768 0.444 0.252 0.08 0.139 0.098
+	40.0 0.798 0.669 0.269 0.157 0.187 0.131
+	50.0 0.751 0.896 0.277 0.251 0.21 0.147
+	60.0 0.63 1.092 0.276 0.346 0.2 0.139
+	70.0 0.448 1.231 0.267 0.424 0.154 0.107
+	80.0 0.227 1.289 0.25 0.465 0.082 0.057
+	90.0 0.0 1.256 0.226 0.461 0.0 0.0
+	100.0 -0.241 1.368 0.25 0.494 -0.087 -0.06
+	120.0 -0.741 1.283 0.276 0.407 -0.235 -0.163
+	140.0 -1.005 0.843 0.269 0.198 -0.235 -0.164
+	160.0 -0.916 0.333 0.226 0.041 -0.112 -0.08
+	180.0 -0.555 0.0 0.149 -0.0 0.002 -0.0
+
+Vhclbody.Comment:
+
+
+## Suspensions ###########################################################
+SuspF.Spring.Kind = Hookean 1
+SuspF.Spring.Amplify = 1.7
+SuspF.Spring.l0 = 0.657
+SuspF.Spring = 60000.0
+SuspF.Parasitic.Stiffness.Kind =
+SuspF.Parasitic.Friction.Kind =
+SuspF.Damper.Kind = Newtonian 1
+SuspF.Damp_Push.Amplify = 11
+SuspF.Damp_Push:
+	0.0 0.0
+	0.1 196.01
+	1.0 880.09
+SuspF.Damp_Pull.Amplify = 11
+SuspF.Damp_Pull:
+	0.0 0.0
+	0.1 348.03
+	1.0 2400.3
+SuspF.Damper.TopMnt.Kind =
+SuspF.Buffer.Kind = Hookean 1
+SuspF.Buf_Push.tz0 = 0.03
+SuspF.Buf_Push.Amplify = 1.1
+SuspF.Buf_Push:
+	0.0 0.0
+	0.005 23.263
+	0.01 58.897
+	0.015 111.83
+	0.02 188.76
+	0.025 298.68
+	0.03 453.71
+	0.035 670.07
+	0.04 969.39
+	0.045 1380.5
+	0.05 1941.7
+	0.055 2703.8
+	0.06 3733.8
+	0.065 5120.5
+	0.07 6980.5
+SuspF.Buf_Pull.tz0 = -0.091
+SuspF.Buf_Pull.Amplify = 1.1
+SuspF.Buf_Pull:
+	0.0 0.0
+	0.005 111.83
+	0.01 453.71
+	0.015 1380.5
+	0.02 3733.8
+	0.025 9467.6
+SuspF.Stabi.Kind = Hookean 1
+SuspF.Stabi.Amplify = 1.1
+SuspF.Stabi = 13004.0
+SuspF.Kin.N = 1
+SuspF.Com.N = 0
+SuspF.Kin.0.FName = Examples/DoubleWishbone_Front.skc
+SuspF.WhlBearing.On = 0
+SuspR.Spring.Kind = Hookean 1
+SuspR.Spring.Amplify = 1.7
+SuspR.Spring.l0 = 0.647
+SuspR.Spring = 70000.0
+SuspR.Parasitic.Stiffness.Kind =
+SuspR.Parasitic.Friction.Kind =
+SuspR.Damper.Kind = Newtonian 1
+SuspR.Damp_Push.Amplify = 11
+SuspR.Damp_Push:
+	0.0 0.0
+	0.1 217.01
+	1.0 1090.1
+SuspR.Damp_Pull.Amplify = 11
+SuspR.Damp_Pull:
+	0.0 0.0
+	0.1 362.54
+	1.0 2545.3
+SuspR.Damper.TopMnt.Kind =
+SuspR.Buffer.Kind = Hookean 1
+SuspR.Buf_Push.tz0 = 0.043
+SuspR.Buf_Push.Amplify = 1.1
+SuspR.Buf_Push:
+	0.0 0.0
+	0.005 19.446
+	0.01 47.892
+	0.015 88.461
+	0.02 145.24
+	0.025 223.56
+	0.03 330.35
+	0.035 474.6
+	0.04 667.91
+	0.045 925.27
+	0.05 1266.0
+	0.055 1714.8
+	0.06 2303.6
+	0.065 3073.0
+	0.07 4075.2
+	0.075 5376.7
+	0.08 7062.2
+	0.085 9240.0
+	0.09 12047.0
+	0.095 15659.0
+	0.1 20298.0
+	0.105 26244.0
+SuspR.Buf_Pull.tz0 = -0.104
+SuspR.Buf_Pull.Amplify = 1.1
+SuspR.Buf_Pull:
+	0.0 0.0
+	0.005 88.461
+	0.01 330.35
+	0.015 925.27
+	0.02 2303.6
+	0.025 5376.7
+	0.03 12047.0
+SuspR.Stabi.Kind = Hookean 1
+SuspR.Stabi.Amplify = 1.1
+SuspR.Stabi = 5554.7
+SuspR.Kin.N = 1
+SuspR.Com.N = 0
+SuspR.Kin.0.FName = Examples/DoubleWishbone_Rear.skc
+SuspR.WhlBearing.On = 0
+SuspControl.0.Kind =
+SuspControl.1.Kind =
+SuspControl.2.Kind =
+SuspControl.3.Kind =
+SuspControl.4.Kind =
+SuspControl.Spring.CtrlNo = 0
+SuspControl.Buffer.CtrlNo = 0
+SuspControl.Damper.CtrlNo = 0
+SuspControl.Stabi.CtrlNo = 0
+SuspControl.FrcSystem.CtrlNo = 0
+Susp.FrcSystem.Kind =
+Susp.SpringSystem.Kind =
+Susp.DamperSystem.Kind =
+Susp.BufferSystem.Kind =
+Susp.StabiSystem.Kind =
+Susp.Comment:
+
+
+## Steering ##############################################################
+Steering.Kind = GenAngle 1
+Steering.Comment:
+Steering.Rack2StWhl = 94.853
+
+
+## Tires #################################################################
+Tire.0 = Examples/RT_255_35R20_p2.50
+Tire.1 = Examples/RT_255_35R20_p2.50
+Tire.2 = Examples/RT_295_30R20_p2.50
+Tire.3 = Examples/RT_295_30R20_p2.50
+AxleR.TwinTiresOn = 0
+Tires.Comment:
+
+
+## Brake #################################################################
+Brake.Kind = Hyd 1
+Brake.Torque.Amplify = 1.5 1.5 1.5 1.5
+Brake.Control.Kind = HydBasic 1
+Brake.Control.Mode = Serial
+Brake.Control.TrqCtrl.p = 1.0E-2
+Brake.Control.TrqCtrl.i = 1.0E-2
+Brake.Control.Ratio = 0.5
+Brake.Control.Margin = 10.0
+Brake.System.FName = HydESP_DemoParam
+Brake.Comment:
+
+
+## Powertrain ############################################################
+PowerTrain.Kind = Modular 1
+PowerTrain.Comment:
+PowerTrain.Control.StartEngineWithSST = 1
+PowerTrain.Gearbox.0.iForwardGears = 8
+PowerTrain.Gearbox.0.iBackwardGears = -8
+
+## Sensor Parametrizations ###############################################
+Sensor.Param.0.Type = SAngle
+Sensor.Param.0.FName =
+Sensor.Param.0.Name = SL_Param
+Sensor.Param.1.Type = Inertial
+Sensor.Param.1.FName =
+Sensor.Param.1.Name = IN_Param
+Sensor.Param.2.Type = Radar
+Sensor.Param.2.FName =
+Sensor.Param.2.Name = RA00
+Sensor.Param.2.AccuracyAzimuth = 0.1
+Sensor.Param.2.AccuracyDistance = 0.4
+Sensor.Param.2.AccuracySpeed = 0.1
+Sensor.Param.2.ResolutionAzimuth = 1.6
+Sensor.Param.2.ResolutionDistance = 1.8
+Sensor.Param.2.ResolutionSpeed = 0.4
+Sensor.Param.2.Separability = 1.5
+Sensor.Param.2.Frequency = 77.0
+Sensor.Param.2.TransmitPower = 14.0
+Sensor.Param.2.SystemLosses = 0.0
+Sensor.Param.2.NoiseBandWidth = 25000.0
+Sensor.Param.2.NoiseFigure = 4.8
+Sensor.Param.2.ProbDetectMin = 0.5
+Sensor.Param.2.ProbFalseAlarmIdx = 6
+Sensor.Param.2.FalsePosActive = 0
+Sensor.Param.2.ClutterObjMean = 5
+Sensor.Param.2.Gain.FName = Radar_Default
+Sensor.Param.2.MaxNumObj = 200.0
+Sensor.Param.2.Range_min = 0.0
+Sensor.Param.2.Range_max = 200.0
+Sensor.Param.2.FoV = 40.0 30.0
+Sensor.Param.N = 3
+Sensor.Comment:
+
+
+## Sensor Cluster ########################################################
+SensorCluster.N = 0
+
+
+## Sensor Instances ######################################################
+Sensor.N = 3
+Sensor.0.name = SL00
+Sensor.0.rot = 0.0 0.0 0.0
+Sensor.0.pos = 2.206 0.0 0.526
+Sensor.0.Visualization = 1
+Sensor.0.VisColor = 0.0 0.0 0.0
+Sensor.0.Mounting = Fr1A
+Sensor.0.Active = 1
+Sensor.0.Ref.Param = 0
+Sensor.0.Ref.Cluster =
+Sensor.1.name = BAJA_1_Radar
+Sensor.1.rot = 0.0 0.0 0.0
+Sensor.1.pos = 4.5 0.0 0.4
+Sensor.1.Visualization = 1
+Sensor.1.VisColor = 0.0 0.0 0.0
+Sensor.1.Mounting = Fr1A
+Sensor.1.Active = 1
+Sensor.1.Ref.Param = 2
+Sensor.1.Ref.Cluster =
+Sensor.1.CycleTime = 60
+Sensor.1.CycleOffset = 0
+Sensor.1.Latency = 1.0 1.0
+Sensor.2.name = YRS
+Sensor.2.rot = 0.0 0.0 0.0
+Sensor.2.pos = 2.7 0.45 0.7
+Sensor.2.Visualization = 1
+Sensor.2.VisColor = 0.0 0.0 0.0
+Sensor.2.Mounting = Fr1A
+Sensor.2.Active = 1
+Sensor.2.Ref.Param = 1
+Sensor.2.Ref.Cluster =
+Sensor.2.CalcClass = Global+Local
+
+
+## Vehicle Control #######################################################
+VehicleControl.0.Kind =
+
+VehicleControl.1.Kind =
+
+VehicleControl.2.Kind =
+
+VehicleControl.3.Kind =
+
+VehicleControl.4.Kind =
+
+VehicleControl.5.Kind =
+
+VehicleControl.6.Kind =
+
+VehicleControl.7.Kind =
+
+VehicleControl.8.Kind =
+
+VehicleControl.9.Kind =
+
+VehicleControl.Comment:
+
+
+## Show ##################################################################
+Crypto.Show:
+	Picture.PicFName
+	Movie.Skin.FName
+	Vehicle.OuterSkin
+	nAxle
+	Steering.Kind
+	Steering.FName
+	Brake.Kind
+	Brake.FName
+	PowerTrain.Kind
+	PowerTrain.FName
+	CM4SL.ActivateFcn
+	CM4SL.StartFcn
+	CM4SL.StopFcn
+	Sensor.N
+	Sensor.0.Active
+	Sensor.0.Ref.Cluster
+	Sensor.1.Active
+	Sensor.1.Ref.Cluster
+	Sensor.2.Active
+	Sensor.2.Ref.Cluster
+	SensorCluster.N
+Crypto.AllowAccess:
+	GenericPlugin
+
+
+## Additional Parameters #################################################
+PowerTrain.BCU.Kind = LV_HV1 1
+PowerTrain.Control.BattMan.Active = 1
+PowerTrain.Control.BattMan.HV.i_Pwr = 1.0
+PowerTrain.Control.BattMan.HV.i_SOC = 50.0
+PowerTrain.Control.BattMan.HV.Pwr_Gen_max = 200
+PowerTrain.Control.BattMan.HV.SOC_trg = 50.0
+PowerTrain.Control.BattMan.LV.i_Pwr = 1.0
+PowerTrain.Control.BattMan.LV.i_SOC = 50.0
+PowerTrain.Control.BattMan.LV.Pwr_Gen_max = 2.0
+PowerTrain.Control.BattMan.LV.SOC_trg = 70.0
+PowerTrain.Control.GasInterpret.Mode = Linear
+PowerTrain.Control.GasInterpret.TrqFull = 2000
+PowerTrain.Control.GasInterpret.TrqZero = 0
+PowerTrain.Control.Kind = BEV 1
+PowerTrain.Control.RegBrake.Active = 1
+PowerTrain.Control.RegBrake.SOC_lim = 75.0
+PowerTrain.Control.RegBrake.SOC_lim_range = 5.0
+PowerTrain.Control.RegBrake.Trq_RegBrake_lim = 2.0
+PowerTrain.Control.RegBrake.v_lim = 2.0
+PowerTrain.Control.RegDrag.Active = 1
+PowerTrain.Control.RegDrag.SOC_lim = 75.0
+PowerTrain.Control.RegDrag.SOC_lim_range = 5.0
+PowerTrain.Control.RegDrag.Trq_RegDrag_lim = 2.0
+PowerTrain.Control.RegDrag.v_lim = 5.0
+PowerTrain.ControlOSM.Kind = Generic 1
+PowerTrain.CtrlUnit.0.Input.0 = Key                                        Key                                         PTPowertrain
+PowerTrain.CtrlUnit.0.Input.1 = SST                                        SST                                         PTPowertrain
+PowerTrain.CtrlUnit.0.Input.2 = SelectorCtrl                               SelectorCtrl                                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.3 = GearNoTrg                                  GearNoTrg                                   PTPowertrain
+PowerTrain.CtrlUnit.0.Input.4 = Clutch                                     Clutch                                      PTPowertrain
+PowerTrain.CtrlUnit.0.Input.5 = Gas                                        Gas                                         PTPowertrain
+PowerTrain.CtrlUnit.0.Input.6 = Brake                                      Brake                                       PTPowertrain
+PowerTrain.CtrlUnit.0.Input.7 = Velocity                                   Velocity                                    PTPowertrain
+PowerTrain.CtrlUnit.0.Input.8 = ECU_Status                                 Status                                      PTEngineCU
+PowerTrain.CtrlUnit.0.Input.9 = EngineIn.Engine_on                         Engine_on                                   PTEngineCU
+PowerTrain.CtrlUnit.0.Input.10 = EngineIn.rotv                              rotv                                        PTEngineCU
+PowerTrain.CtrlUnit.0.Input.11 = EngineIn.Trq                               Trq                                         PTEngineCU
+PowerTrain.CtrlUnit.0.Input.12 = EngineIn.TrqDrag                           TrqDrag                                     PTEngineCU
+PowerTrain.CtrlUnit.0.Input.13 = EngineIn.TrqFull                           TrqFull                                     PTEngineCU
+PowerTrain.CtrlUnit.0.Input.14 = EngineIn.TrqOpt                            TrqOpt                                      PTEngineCU
+PowerTrain.CtrlUnit.0.Input.15 = EngineIn.FuelFlow                          FuelFlow                                    PTEngineCU
+PowerTrain.CtrlUnit.0.Input.16 = MCU_Status                                 Status                                      PTMotorCU
+PowerTrain.CtrlUnit.0.Input.17 = ISGIn.rotv                                 ISGIn.rotv                                  PTMotorCU
+PowerTrain.CtrlUnit.0.Input.18 = ISGIn.Trq                                  ISGIn.Trq                                   PTMotorCU
+PowerTrain.CtrlUnit.0.Input.19 = ISGIn.TrqMot_max                           ISGOut.TrqMot_max                           PTMotorCU
+PowerTrain.CtrlUnit.0.Input.20 = ISGIn.TrqGen_max                           ISGOut.TrqGen_max                           PTMotorCU
+PowerTrain.CtrlUnit.0.Input.21 = ISGIn.PwrElec                              ISGIn.PwrElec                               PTMotorCU
+PowerTrain.CtrlUnit.0.Input.22 = MotorIn.m0.rotv                            MotorIn.m0.rotv                             PTMotorCU
+PowerTrain.CtrlUnit.0.Input.23 = MotorIn.m0.Trq                             MotorIn.m0.Trq                              PTMotorCU
+PowerTrain.CtrlUnit.0.Input.24 = MotorIn.m0.TrqMot_max                      MotorOut.m0.TrqMot_max                      PTMotorCU
+PowerTrain.CtrlUnit.0.Input.25 = MotorIn.m0.TrqGen_max                      MotorOut.m0.TrqGen_max                      PTMotorCU
+PowerTrain.CtrlUnit.0.Input.26 = MotorIn.m0.PwrElec                         MotorIn.m0.PwrElec                          PTMotorCU
+PowerTrain.CtrlUnit.0.Input.27 = MotorIn.m1.rotv                            MotorIn.m1.rotv                             PTMotorCU
+PowerTrain.CtrlUnit.0.Input.28 = MotorIn.m1.Trq                             MotorIn.m1.Trq                              PTMotorCU
+PowerTrain.CtrlUnit.0.Input.29 = MotorIn.m1.TrqMot_max                      MotorOut.m1.TrqMot_max                      PTMotorCU
+PowerTrain.CtrlUnit.0.Input.30 = MotorIn.m1.TrqGen_max                      MotorOut.m1.TrqGen_max                      PTMotorCU
+PowerTrain.CtrlUnit.0.Input.31 = MotorIn.m1.PwrElec                         MotorIn.m1.PwrElec                          PTMotorCU
+PowerTrain.CtrlUnit.0.Input.32 = TCU_Status                                 Status                                      PTTransmCU
+PowerTrain.CtrlUnit.0.Input.33 = ClutchIn.0.Pos                             ClutchOut.0.Pos                               PTTransmCU
+PowerTrain.CtrlUnit.0.Input.34 = ClutchIn.0.rotv_in                         ClutchIn.0.rotv_in                            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.35 = ClutchIn.0.rotv_out                        ClutchIn.0.rotv_out                           PTTransmCU
+PowerTrain.CtrlUnit.0.Input.36 = ClutchIn.0.Trq_in                          ClutchIn.0.Trq_in                             PTTransmCU
+PowerTrain.CtrlUnit.0.Input.37 = ClutchIn.0.Trq_out                         ClutchIn.0.Trq_out                            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.38 = ClutchIn.0.i_TrqIn2Out                     ClutchIn.0.i_TrqIn2Out                        PTTransmCU
+PowerTrain.CtrlUnit.0.Input.39 = GearboxIn.0.GearNo                         GearboxIn.0.GearNo                            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.40 = GearboxIn.0.GearNo_dis                     GearboxIn.0.GearNo_dis                        PTTransmCU
+PowerTrain.CtrlUnit.0.Input.41 = GearboxIn.0.Trq_DriveSrc_trg               GearboxOut.0.Trq_DriveSrc_trg                 PTTransmCU
+PowerTrain.CtrlUnit.0.Input.42 = GearboxIn.0.i                              GearboxIn.0.i                                 PTTransmCU
+PowerTrain.CtrlUnit.0.Input.43 = GearboxIn.0.rotv_in                        GearboxIn.0.rotv_in                           PTTransmCU
+PowerTrain.CtrlUnit.0.Input.44 = GearboxIn.0.rotv_out                       GearboxIn.0.rotv_out                          PTTransmCU
+PowerTrain.CtrlUnit.0.Input.45 = GearboxIn.0.Trq_in                         GearboxIn.0.Trq_in                            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.46 = GearboxIn.0.Trq_out                        GearboxIn.0.Trq_out                           PTTransmCU
+PowerTrain.CtrlUnit.0.Input.47 = GearboxIn.0.Clutch.Pos                     GearboxOut.0.Clutch.Pos                       PTTransmCU
+PowerTrain.CtrlUnit.0.Input.48 = GearboxIn.0.Clutch.rotv_in                 GearboxIn.0.Clutch.rotv_in                    PTTransmCU
+PowerTrain.CtrlUnit.0.Input.49 = GearboxIn.0.Clutch.rotv_out                GearboxIn.0.Clutch.rotv_out                   PTTransmCU
+PowerTrain.CtrlUnit.0.Input.50 = GearboxIn.0.Clutch.Trq_in                  GearboxIn.0.Clutch.Trq_in                     PTTransmCU
+PowerTrain.CtrlUnit.0.Input.51 = GearboxIn.0.Clutch.Trq_out                 GearboxIn.0.Clutch.Trq_out                    PTTransmCU
+PowerTrain.CtrlUnit.0.Input.52 = GearboxIn.0.Clutch.i_TrqIn2Out             GearboxIn.0.Clutch.i_TrqIn2Out                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.53 = GearboxIn.0.Clutch_dis.Pos                 GearboxOut.0.Clutch_dis.Pos                   PTTransmCU
+PowerTrain.CtrlUnit.0.Input.54 = GearboxIn.0.Clutch_dis.rotv_in             GearboxIn.0.Clutch_dis.rotv_in                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.55 = GearboxIn.0.Clutch_dis.rotv_out            GearboxIn.0.Clutch_dis.rotv_out               PTTransmCU
+PowerTrain.CtrlUnit.0.Input.56 = GearboxIn.0.Clutch_dis.Trq_in              GearboxIn.0.Clutch_dis.Trq_in                 PTTransmCU
+PowerTrain.CtrlUnit.0.Input.57 = GearboxIn.0.Clutch_dis.Trq_out             GearboxIn.0.Clutch_dis.Trq_out                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.58 = GearboxIn.0.Clutch_dis.i_TrqIn2Out         GearboxIn.0.Clutch_dis.i_TrqIn2Out            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.59 = GearboxIn.1.i                              GearboxIn.1.i			          PTTransmCU
+PowerTrain.CtrlUnit.0.Input.60 = GearboxIn.1.rotv_in                        GearboxIn.1.rotv_in                           PTTransmCU
+PowerTrain.CtrlUnit.0.Input.61 = GearboxIn.1.rotv_out                       GearboxIn.1.rotv_out                          PTTransmCU
+PowerTrain.CtrlUnit.0.Input.62 = GearboxIn.1.Trq_in                         GearboxIn.1.Trq_in                            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.63 = GearboxIn.1.Trq_out                        GearboxIn.1.Trq_out                           PTTransmCU
+PowerTrain.CtrlUnit.0.Input.64 = GearboxIn.1.Clutch.Pos                     GearboxOut.1.Clutch.Pos                       PTTransmCU
+PowerTrain.CtrlUnit.0.Input.65 = GearboxIn.1.Clutch.rotv_in                 GearboxIn.1.Clutch.rotv_in                    PTTransmCU
+PowerTrain.CtrlUnit.0.Input.66 = GearboxIn.1.Clutch.rotv_out                GearboxIn.1.Clutch.rotv_out                   PTTransmCU
+PowerTrain.CtrlUnit.0.Input.67 = GearboxIn.1.Clutch.Trq_in                  GearboxIn.1.Clutch.Trq_in                     PTTransmCU
+PowerTrain.CtrlUnit.0.Input.68 = GearboxIn.1.Clutch.Trq_out                 GearboxIn.1.Clutch.Trq_out                    PTTransmCU
+PowerTrain.CtrlUnit.0.Input.69 = GearboxIn.1.Clutch.i_TrqIn2Out             GearboxIn.1.Clutch.i_TrqIn2Out                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.70 = GearboxIn.1.Clutch_dis.Pos                 GearboxOut.1.Clutch_dis.Pos                   PTTransmCU
+PowerTrain.CtrlUnit.0.Input.71 = GearboxIn.1.Clutch_dis.rotv_in             GearboxIn.1.Clutch_dis.rotv_in                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.72 = GearboxIn.1.Clutch_dis.rotv_out            GearboxIn.1.Clutch_dis.rotv_out               PTTransmCU
+PowerTrain.CtrlUnit.0.Input.73 = GearboxIn.1.Clutch_dis.Trq_in              GearboxIn.1.Clutch_dis.Trq_in                 PTTransmCU
+PowerTrain.CtrlUnit.0.Input.74 = GearboxIn.1.Clutch_dis.Trq_out             GearboxIn.1.Clutch_dis.Trq_out                PTTransmCU
+PowerTrain.CtrlUnit.0.Input.75 = GearboxIn.1.Clutch_dis.i_TrqIn2Out         GearboxIn.1.Clutch_dis.i_TrqIn2Out            PTTransmCU
+PowerTrain.CtrlUnit.0.Input.76 = GearboxIn.1.Trq_DriveSrc_trg               GearboxOut.1.Trq_DriveSrc_trg                 PTTransmCU
+PowerTrain.CtrlUnit.0.Input.77 = BCU_Status                                 Status                                      PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.78 = BattLVIn.SOC                               SOC_LV                                      PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.79 = BattLVIn.SOH                               SOH_LV                                      PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.80 = BattLVIn.Current                           BattLV.Current                              PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.81 = BattLVIn.AOC                               BattLV.AOC                                  PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.82 = BattLVIn.Temp                              BattLV.Temp                                 PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.83 = BattLVIn.Energy                            BattLV.Energy                               PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.84 = BattLVIn.Pwr_max                           BattLV.Pwr_max                              PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.85 = BattHVIn.SOC                               SOC_HV                                      PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.86 = BattHVIn.SOH                               SOH_HV                                      PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.87 = BattHVIn.Current                           BattHV.Current                              PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.88 = BattHVIn.AOC                               BattHV.AOC                                  PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.89 = BattHVIn.Temp                              BattHV.Temp                                 PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.90 = BattHVIn.Energy                            BattHV.Energy                               PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.91 = BattHVIn.Pwr_max                           BattHV.Pwr_max                              PTBatteryCU
+PowerTrain.CtrlUnit.0.Input.92 = PwrSupplyIn.Pwr_LV                         Pwr_LV                                      PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.93 = PwrSupplyIn.Pwr_HV1                        Pwr_HV1                                     PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.94 = PwrSupplyIn.Pwr_HV2                        Pwr_HV2                                     PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.95 = PwrSupplyIn.Voltage_LV                     Voltage_LV                                  PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.96 = PwrSupplyIn.Voltage_HV1                    Voltage_HV1                                 PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.97 = PwrSupplyIn.Voltage_HV2                    Voltage_HV2                                 PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.98 = PwrSupplyIn.Pwr_HV1toLV                    Pwr_HV1toLV                                 PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.99 = PwrSupplyIn.Pwr_HV1toHV2                   Pwr_HV1toHV2                                PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.100 = PwrSupplyIn.Pwr_HV1toLV_max                Pwr_HV1toLV_max                             PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.101 = PwrSupplyIn.Pwr_HV1toHV2_max               Pwr_HV1toHV2_max                            PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.102 = PwrSupplyIn.Eta_HV1toLV                    Eta_HV1toLV                                 PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.103 = PwrSupplyIn.Eta_HV1toHV2                   Eta_HV1toHV2                                PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.104 = WheelIn.FL.Trq_BrakeReg_trg                WheelIn.FL.Trq_BrakeReg_trg                 PTPowertrain
+PowerTrain.CtrlUnit.0.Input.105 = WheelIn.FR.Trq_BrakeReg_trg                WheelIn.FR.Trq_BrakeReg_trg                 PTPowertrain
+PowerTrain.CtrlUnit.0.Input.106 = WheelIn.RL.Trq_BrakeReg_trg                WheelIn.RL.Trq_BrakeReg_trg                 PTPowertrain
+PowerTrain.CtrlUnit.0.Input.107 = WheelIn.RR.Trq_BrakeReg_trg                WheelIn.RR.Trq_BrakeReg_trg                 PTPowertrain
+PowerTrain.CtrlUnit.0.Input.108 = WheelIn.FR2.Trq_BrakeReg_trg               WheelIn.FR2.Trq_BrakeReg_trg                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.109 = WheelIn.FL2.Trq_BrakeReg_trg               WheelIn.FL2.Trq_BrakeReg_trg                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.110 = WheelIn.RL2.Trq_BrakeReg_trg               WheelIn.RL2.Trq_BrakeReg_trg                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.111 = WheelIn.RR2.Trq_BrakeReg_trg               WheelIn.RR2.Trq_BrakeReg_trg                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.112 = DriveSrcIn.0.Trq_trg                       DriveSrcIn.0.Trq_trg                        PTPowertrain
+PowerTrain.CtrlUnit.0.Input.113 = DriveSrcIn.1.Trq_trg                       DriveSrcIn.1.Trq_trg                        PTPowertrain
+PowerTrain.CtrlUnit.0.Input.CfgIF.0 = CfgIF.nWheels                              CfgIF.nWheels                               PTPowertrain
+PowerTrain.CtrlUnit.0.Input.CfgIF.1 = CfgIF.PTKind                               CfgIF.PTKind                                PTPowertrain
+PowerTrain.CtrlUnit.0.Input.CfgIF.2 = CfgIF.nMotor                               CfgIF.nMotor                                PTMotorCU
+PowerTrain.CtrlUnit.0.Input.CfgIF.3 = CfgIF.ClKind                               CfgIF.ClKind                                PTClutch 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.4 = CfgIF.DriveSource.ds0.Pos                  CfgIF.ds0.Pos                               PTDriveline -1
+PowerTrain.CtrlUnit.0.Input.CfgIF.5 = CfgIF.DriveSource.ds1.Pos                  CfgIF.ds1.Pos                               PTDriveline -1
+PowerTrain.CtrlUnit.0.Input.CfgIF.6 = CfgIF.DriveSource.ds2.Pos                  CfgIF.ds2.Pos                               PTDriveline -1
+PowerTrain.CtrlUnit.0.Input.CfgIF.7 = CfgIF.DriveSource.ds3.Pos                  CfgIF.ds3.Pos                               PTDriveline -1
+PowerTrain.CtrlUnit.0.Input.CfgIF.8 = CfgIF.WheelRadius                          CfgIF.WheelRadius                           PTPowertrain
+PowerTrain.CtrlUnit.0.Input.CfgIF.9 = CfgIF.Aero_Frcx                            CfgIF.Aero_Frcx                             PTPowertrain
+PowerTrain.CtrlUnit.0.Input.CfgIF.10 = CfgIF.DL_iDiff_mean                        CfgIF.iDiff_mean                            PTDriveline -1
+PowerTrain.CtrlUnit.0.Input.CfgIF.11 = CfgIF.BattLV.SOC_min                       CfgIF.BattLV.SOC_min                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.12 = CfgIF.BattLV.SOC_max                       CfgIF.BattLV.SOC_max                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.13 = CfgIF.BattLV.Capacity                      CfgIF.BattLV.Capacity                       PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.14 = CfgIF.BattLV.Voltage                       CfgIF.BattLV.Voltage                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.15 = CfgIF.BattHV.SOC_min                       CfgIF.BattHV.SOC_min                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.16 = CfgIF.BattHV.SOC_max                       CfgIF.BattHV.SOC_max                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.17 = CfgIF.BattHV.Capacity                      CfgIF.BattHV.Capacity                       PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.18 = CfgIF.BattHV.Voltage                       CfgIF.BattHV.Voltage                        PTPowerSupply
+PowerTrain.CtrlUnit.0.Input.CfgIF.19 = CfgIF.Motor.m0.Level                       CfgIF.Level                                 PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.20 = CfgIF.Motor.m0.Ratio                       CfgIF.Ratio                                 PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.21 = CfgIF.Motor.m0.rotv_Mot_max                CfgIF.rotv_Mot_max                          PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.22 = CfgIF.Motor.m0.rotv_Gen_max                CfgIF.rotv_Gen_max                          PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.23 = CfgIF.Motor.m0.TrqMot_max                  CfgIF.TrqMot_max                            PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.24 = CfgIF.Motor.m0.TrqGen_max                  CfgIF.TrqGen_max                            PTMotor 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.25 = CfgIF.Motor.m1.Level                       CfgIF.Level                                 PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.26 = CfgIF.Motor.m1.Ratio                       CfgIF.Ratio                                 PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.27 = CfgIF.Motor.m1.rotv_Mot_max                CfgIF.rotv_Mot_max                          PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.28 = CfgIF.Motor.m1.rotv_Gen_max                CfgIF.rotv_Gen_max                          PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.29 = CfgIF.Motor.m1.TrqMot_max                  CfgIF.TrqMot_max                            PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.30 = CfgIF.Motor.m1.TrqGen_max                  CfgIF.TrqGen_max                            PTMotor 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.31 = CfgIF.Gearbox.0.GBKind                    CfgIF.GBKind                                PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.32 = CfgIF.Gearbox.0.ClKind                    CfgIF.ClKind                                PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.33 = CfgIF.Gearbox.0.nFGears                   CfgIF.nFGears                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.34 = CfgIF.Gearbox.0.nBGears                   CfgIF.nBGears                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.35 = CfgIF.Gearbox.0.iFGear1                   CfgIF.iFGear1                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.36 = CfgIF.Gearbox.0.iFGear2                   CfgIF.iFGear2                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.37 = CfgIF.Gearbox.0.iFGear3                   CfgIF.iFGear3                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.38 = CfgIF.Gearbox.0.iFGear4                   CfgIF.iFGear4                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.39 = CfgIF.Gearbox.0.iFGear5                   CfgIF.iFGear5                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.40 = CfgIF.Gearbox.0.iFGear6                   CfgIF.iFGear6                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.41 = CfgIF.Gearbox.0.iBGear1                   CfgIF.iBGear1                               PTGearbox 0
+PowerTrain.CtrlUnit.0.Input.CfgIF.42 = CfgIF.Gearbox.1.GBKind                    CfgIF.GBKind                                PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.43 = CfgIF.Gearbox.1.ClKind                    CfgIF.ClKind                                PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.44 = CfgIF.Gearbox.1.nFGears                   CfgIF.nFGears                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.45 = CfgIF.Gearbox.1.nBGears                   CfgIF.nBGears                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.46 = CfgIF.Gearbox.1.iFGear1                   CfgIF.iFGear1                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.47 = CfgIF.Gearbox.1.iFGear2                   CfgIF.iFGear2                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.48 = CfgIF.Gearbox.1.iFGear3                   CfgIF.iFGear3                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.49 = CfgIF.Gearbox.1.iFGear4                   CfgIF.iFGear4                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.50 = CfgIF.Gearbox.1.iFGear5                   CfgIF.iFGear5                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.51 = CfgIF.Gearbox.1.iFGear6                   CfgIF.iFGear6                               PTGearbox 1
+PowerTrain.CtrlUnit.0.Input.CfgIF.52 = CfgIF.Gearbox.1.iBGear1                   CfgIF.iBGear1                               PTGearbox 1
+PowerTrain.CtrlUnit.0.ModelClass = PTControl
+PowerTrain.CtrlUnit.1.Input.0 = Ignition                                   Ignition                                    PTControl
+PowerTrain.CtrlUnit.1.Input.1 = MotorIn.m0.Trq_trg                         MotorOut.m0.Trq_trg                         PTControl
+PowerTrain.CtrlUnit.1.Input.2 = MotorIn.m0.Trq                             Trq                                         PTMotor 0
+PowerTrain.CtrlUnit.1.Input.3 = MotorIn.m0.rotv_trg                        MotorOut.m0.rotv_trg                        PTControl
+PowerTrain.CtrlUnit.1.Input.4 = MotorIn.m0.rotv                            rotv                                        PTMotor 0
+PowerTrain.CtrlUnit.1.Input.5 = MotorIn.m0.PwrElec                         PwrElec                                     PTMotor 0
+PowerTrain.CtrlUnit.1.Input.6 = MotorOut.m0.Load                           MotorOut.m0.Load                            PTControl
+PowerTrain.CtrlUnit.1.Input.7 = MotorIn.m1.Trq_trg                         MotorOut.m1.Trq_trg                         PTControl
+PowerTrain.CtrlUnit.1.Input.8 = MotorIn.m1.Trq                             Trq                                         PTMotor 1
+PowerTrain.CtrlUnit.1.Input.9 = MotorIn.m1.rotv_trg                        MotorOut.m1.rotv_trg                        PTControl
+PowerTrain.CtrlUnit.1.Input.10 = MotorIn.m1.rotv                            rotv                                        PTMotor 1
+PowerTrain.CtrlUnit.1.Input.11 = MotorIn.m1.PwrElec                         PwrElec                                     PTMotor 1
+PowerTrain.CtrlUnit.1.Input.12 = MotorOut.m1.Load                           MotorOut.m1.Load                            PTControl
+PowerTrain.CtrlUnit.1.Input.CfgIF.0 = CfgIF.Motor.m0.Ratio                       CfgIF.Ratio                                 PTMotor 0
+PowerTrain.CtrlUnit.1.Input.CfgIF.1 = CfgIF.Motor.m0.rotv_Mot_max                CfgIF.rotv_Mot_max                          PTMotor 0
+PowerTrain.CtrlUnit.1.Input.CfgIF.2 = CfgIF.Motor.m0.rotv_Gen_max                CfgIF.rotv_Gen_max                          PTMotor 0
+PowerTrain.CtrlUnit.1.Input.CfgIF.3 = CfgIF.Motor.m0.TrqMot_max                  CfgIF.TrqMot_max                            PTMotor 0
+PowerTrain.CtrlUnit.1.Input.CfgIF.4 = CfgIF.Motor.m0.TrqGen_max                  CfgIF.TrqGen_max                            PTMotor 0
+PowerTrain.CtrlUnit.1.Input.CfgIF.5 = CfgIF.Motor.m1.Ratio                       CfgIF.Ratio                                 PTMotor 1
+PowerTrain.CtrlUnit.1.Input.CfgIF.6 = CfgIF.Motor.m1.rotv_Mot_max                CfgIF.rotv_Mot_max                          PTMotor 1
+PowerTrain.CtrlUnit.1.Input.CfgIF.7 = CfgIF.Motor.m1.rotv_Gen_max                CfgIF.rotv_Gen_max                          PTMotor 1
+PowerTrain.CtrlUnit.1.Input.CfgIF.8 = CfgIF.Motor.m1.TrqMot_max                  CfgIF.TrqMot_max                            PTMotor 1
+PowerTrain.CtrlUnit.1.Input.CfgIF.9 = CfgIF.Motor.m1.TrqGen_max                  CfgIF.TrqGen_max                            PTMotor 1
+PowerTrain.CtrlUnit.1.ModelClass = PTMotorCU
+PowerTrain.CtrlUnit.2.Input.0 = Ignition                                   Ignition                                    PTControl
+PowerTrain.CtrlUnit.2.Input.1 = Load                                       Gas                                         PTControl
+PowerTrain.CtrlUnit.2.Input.2 = SelectorCtrl                               SelectorCtrl                                PTControl
+PowerTrain.CtrlUnit.2.Input.3 = Velocity                                   Velocity                                    PTControl
+PowerTrain.CtrlUnit.2.Input.4 = GearboxIn.0.GearNo                   GearNo                                      PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.5 = GearboxIn.0.GearNo_dis               GearNo_dis                                  PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.6 = GearboxIn.0.i                        i                                           PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.7 = GearboxIn.0.rotv_in                  rotv_in                                     PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.8 = GearboxIn.0.rotv_out                 rotv_out                                    PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.9 = GearboxIn.0.Trq_in                   Trq_in                                      PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.10 = GearboxIn.0.Trq_out                  Trq_out                                     PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.11 = GearboxIn.0.rotv_in_trg              GearboxOut.0.rotv_in_trg              PTControl
+PowerTrain.CtrlUnit.2.Input.12 = GearboxIn.0.Trq_out_trg              GearboxOut.0.Trq_out_trg              PTControl
+PowerTrain.CtrlUnit.2.Input.13 = GearboxIn.0.Clutch.rotv_in           ClutchOut.rotv_in                           PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.14 = GearboxIn.0.Clutch.rotv_out          ClutchOut.rotv_out                          PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.15 = GearboxIn.0.Clutch.Trq_in            ClutchOut.Trq_in                            PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.16 = GearboxIn.0.Clutch.Trq_out           ClutchOut.Trq_out                           PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.17 = GearboxIn.0.Clutch.i_TrqIn2Out       ClutchOut.i_TrqIn2Out                       PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.18 = GearboxIn.0.Clutch.rotv_out_trg      GearboxOut.0.Clutch.rotv_out_trg      PTControl
+PowerTrain.CtrlUnit.2.Input.19 = GearboxIn.0.Clutch.Trq_out_trg       GearboxOut.0.Clutch.Trq_out_trg       PTControl
+PowerTrain.CtrlUnit.2.Input.20 = GearboxIn.0.Clutch_dis.rotv_in       Clutch_dis_Out.rotv_in                      PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.21 = GearboxIn.0.Clutch_dis.rotv_out      Clutch_dis_Out.rotv_out                     PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.22 = GearboxIn.0.Clutch_dis.Trq_in        Clutch_dis_Out.Trq_in                       PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.23 = GearboxIn.0.Clutch_dis.Trq_out       Clutch_dis_Out.Trq_out                      PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.24 = GearboxIn.0.Clutch_dis.i_TrqIn2Out   Clutch_dis_Out.i_TrqIn2Out                  PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.25 = GearboxIn.0.Clutch_dis.rotv_out_trg  GearboxOut.0.Clutch_dis.rotv_out_trg  PTControl
+PowerTrain.CtrlUnit.2.Input.26 = GearboxIn.0.Clutch_dis.Trq_out_trg   GearboxOut.0.Clutch_dis.Trq_out_trg   PTControl
+PowerTrain.CtrlUnit.2.Input.27 = GearboxOut.0.GearNoTrg               GearboxOut.0.GearNoTrg                PTControl
+PowerTrain.CtrlUnit.2.Input.28 = GearboxOut.0.GearNoTrg_dis           GearboxOut.0.GearNoTrg_dis            PTControl
+PowerTrain.CtrlUnit.2.Input.29 = GearboxOut.0.i_trg                   GearboxOut.0.i_trg                    PTControl
+PowerTrain.CtrlUnit.2.Input.30 = GearboxOut.0.set_ParkBrake           GearboxOut.0.set_ParkBrake            PTControl
+PowerTrain.CtrlUnit.2.Input.31 = GearboxOut.0.Clutch.Pos              GearboxOut.0.Clutch.Pos               PTControl
+PowerTrain.CtrlUnit.2.Input.32 = GearboxOut.0.Clutch_dis.Pos          GearboxOut.0.Clutch_dis.Pos           PTControl
+PowerTrain.CtrlUnit.2.Input.33 = GearboxIn.1.GearNo                   GearNo                                      PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.34 = GearboxIn.1.GearNo_dis               GearNo_dis                                  PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.35 = GearboxIn.1.i                        i                                           PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.36 = GearboxIn.1.rotv_in                  rotv_in                                     PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.37 = GearboxIn.1.rotv_out                 rotv_out                                    PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.38 = GearboxIn.1.Trq_in                   Trq_in                                      PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.39 = GearboxIn.1.Trq_out                  Trq_out                                     PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.40 = GearboxIn.1.rotv_in_trg              GearboxOut.1.rotv_in_trg              PTControl
+PowerTrain.CtrlUnit.2.Input.41 = GearboxIn.1.Trq_out_trg              GearboxOut.1.Trq_out_trg              PTControl
+PowerTrain.CtrlUnit.2.Input.42 = GearboxIn.1.Clutch.rotv_in           ClutchOut.rotv_in                           PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.43 = GearboxIn.1.Clutch.rotv_out          ClutchOut.rotv_out                          PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.44 = GearboxIn.1.Clutch.Trq_in            ClutchOut.Trq_in                            PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.45 = GearboxIn.1.Clutch.Trq_out           ClutchOut.Trq_out                           PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.46 = GearboxIn.1.Clutch.i_TrqIn2Out       ClutchOut.i_TrqIn2Out                       PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.47 = GearboxIn.1.Clutch.rotv_out_trg      GearboxOut.1.Clutch.rotv_out_trg      PTControl
+PowerTrain.CtrlUnit.2.Input.48 = GearboxIn.1.Clutch.Trq_out_trg       GearboxOut.1.Clutch.Trq_out_trg       PTControl
+PowerTrain.CtrlUnit.2.Input.49 = GearboxIn.1.Clutch_dis.rotv_in       Clutch_dis_Out.rotv_in                      PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.50 = GearboxIn.1.Clutch_dis.rotv_out      Clutch_dis_Out.rotv_out                     PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.51 = GearboxIn.1.Clutch_dis.Trq_in        Clutch_dis_Out.Trq_in                       PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.52 = GearboxIn.1.Clutch_dis.Trq_out       Clutch_dis_Out.Trq_out                      PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.53 = GearboxIn.1.Clutch_dis.i_TrqIn2Out   Clutch_dis_Out.i_TrqIn2Out                  PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.54 = GearboxIn.1.Clutch_dis.rotv_out_trg  GearboxOut.1.Clutch_dis.rotv_out_trg  PTControl
+PowerTrain.CtrlUnit.2.Input.55 = GearboxIn.1.Clutch_dis.Trq_out_trg   GearboxOut.1.Clutch_dis.Trq_out_trg   PTControl
+PowerTrain.CtrlUnit.2.Input.56 = GearboxOut.1.GearNoTrg               GearboxOut.1.GearNoTrg                PTControl
+PowerTrain.CtrlUnit.2.Input.57 = GearboxOut.1.GearNoTrg_dis           GearboxOut.1.GearNoTrg_dis            PTControl
+PowerTrain.CtrlUnit.2.Input.58 = GearboxOut.1.i_trg                   GearboxOut.1.i_trg                    PTControl
+PowerTrain.CtrlUnit.2.Input.59 = GearboxOut.1.set_ParkBrake           GearboxOut.1.set_ParkBrake            PTControl
+PowerTrain.CtrlUnit.2.Input.60 = GearboxOut.1.Clutch.Pos              GearboxOut.1.Clutch.Pos               PTControl
+PowerTrain.CtrlUnit.2.Input.61 = GearboxOut.1.Clutch_dis.Pos          GearboxOut.1.Clutch_dis.Pos           PTControl
+PowerTrain.CtrlUnit.2.Input.CfgIF.0 = CfgIF.Gearbox.0.ClKind                CfgIF.ClKind                                PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.1 = CfgIF.Gearbox.0.GBKind                CfgIF.GBKind                                PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.2 = CfgIF.Gearbox.0.nFGears               CfgIF.nFGears                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.3 = CfgIF.Gearbox.0.nBGears               CfgIF.nBGears                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.4 = CfgIF.Gearbox.0.iBGear1               CfgIF.iBGear1                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.5 = CfgIF.Gearbox.0.iFGear1               CfgIF.iFGear1                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.6 = CfgIF.Gearbox.0.iFGear2               CfgIF.iFGear2                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.7 = CfgIF.Gearbox.0.iFGear3               CfgIF.iFGear3                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.8 = CfgIF.Gearbox.0.iFGear4               CfgIF.iFGear4                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.9 = CfgIF.Gearbox.0.iFGear5               CfgIF.iFGear5                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.10 = CfgIF.Gearbox.0.iFGear6               CfgIF.iFGear6                               PTGearbox 0
+PowerTrain.CtrlUnit.2.Input.CfgIF.11 = CfgIF.Gearbox.1.ClKind                CfgIF.ClKind                                PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.12 = CfgIF.Gearbox.1.GBKind                CfgIF.GBKind                                PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.13 = CfgIF.Gearbox.1.nFGears               CfgIF.nFGears                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.14 = CfgIF.Gearbox.1.nBGears               CfgIF.nBGears                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.15 = CfgIF.Gearbox.1.iBGear1               CfgIF.iBGear1                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.16 = CfgIF.Gearbox.1.iFGear1               CfgIF.iFGear1                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.17 = CfgIF.Gearbox.1.iFGear2               CfgIF.iFGear2                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.18 = CfgIF.Gearbox.1.iFGear3               CfgIF.iFGear3                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.19 = CfgIF.Gearbox.1.iFGear4               CfgIF.iFGear4                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.20 = CfgIF.Gearbox.1.iFGear5               CfgIF.iFGear5                               PTGearbox 1
+PowerTrain.CtrlUnit.2.Input.CfgIF.21 = CfgIF.Gearbox.1.iFGear6               CfgIF.iFGear6                               PTGearbox 1
+PowerTrain.CtrlUnit.2.ModelClass = PTTransmCU
+PowerTrain.CtrlUnit.3.Input.0 = Ignition                                   Ignition                                    PTControl
+PowerTrain.CtrlUnit.3.Input.1 = Pwr_HV1toLV_trg                            PwrSupplyOut.Pwr_HV1toLV_trg                PTControl
+PowerTrain.CtrlUnit.3.Input.2 = Pwr_LV                                     Pwr_LV                                      PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.3 = Pwr_HV1                                    Pwr_HV1                                     PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.4 = Pwr_HV2                                    Pwr_HV2                                     PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.5 = Voltage_LV                                 Voltage_LV                                  PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.6 = Voltage_HV1                                Voltage_HV1                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.7 = Voltage_HV2                                Voltage_HV2                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.8 = Pwr_HV1toLV                                Pwr_HV1toLV                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.9 = Pwr_HV1toHV2                               Pwr_HV1toHV2                                PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.10 = Pwr_HV1toLV_max                            Pwr_HV1toLV_max                             PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.11 = Pwr_HV1toHV2_max                           Pwr_HV1toHV2_max                            PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.12 = Eta_HV1toLV                                Eta_HV1toLV                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.13 = Eta_HV1toHV2                               Eta_HV1toHV2                                PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.14 = BattLV.Current                             BattLV.Current                              PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.15 = BattLV.Temp                                BattLV.Temp                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.16 = BattLV.AOC                                 BattLV.AOC                                  PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.17 = BattLV.Energy                              BattLV.Energy                               PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.18 = BattLV.Pwr_max                             BattLV.Pwr_max                              PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.19 = BattHV.Current                             BattHV.Current                              PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.20 = BattHV.Temp                                BattHV.Temp                                 PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.21 = BattHV.AOC                                 BattHV.AOC                                  PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.22 = BattHV.Energy                              BattHV.Energy                               PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.23 = BattHV.Pwr_max                             BattHV.Pwr_max                              PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.0 = CfgIF.BattLV.SOC_min                       CfgIF.BattLV.SOC_min                        PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.1 = CfgIF.BattLV.SOC_max                       CfgIF.BattLV.SOC_max                        PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.2 = CfgIF.BattLV.Capacity                      CfgIF.BattLV.Capacity                       PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.3 = CfgIF.BattLV.Voltage                       CfgIF.BattLV.Voltage                        PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.4 = CfgIF.BattHV.SOC_min                       CfgIF.BattHV.SOC_min                        PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.5 = CfgIF.BattHV.SOC_max                       CfgIF.BattHV.SOC_max                        PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.6 = CfgIF.BattHV.Capacity                      CfgIF.BattHV.Capacity                       PTPowerSupply
+PowerTrain.CtrlUnit.3.Input.CfgIF.7 = CfgIF.BattHV.Voltage                       CfgIF.BattHV.Voltage                        PTPowerSupply
+PowerTrain.CtrlUnit.3.ModelClass = PTBatteryCU
+PowerTrain.DL.FAxle.DrvSrc = Diff 0
+PowerTrain.DL.FDiff.Cpl.Kind =
+PowerTrain.DL.FDiff.Eta = 1.0
+PowerTrain.DL.FDiff.i = 1
+PowerTrain.DL.FDiff.I_Cage = 0.0
+PowerTrain.DL.FDiff.I_in = 0.001
+PowerTrain.DL.FDiff.I_out = 0.001
+PowerTrain.DL.FlexShaft = 0
+PowerTrain.DL.Kind = GenAxle 1
+PowerTrain.DL.RAxle.DrvSrc = Diff 1
+PowerTrain.DL.RDiff.Cpl.Kind =
+PowerTrain.DL.RDiff.Eta = 1.0
+PowerTrain.DL.RDiff.i = 1
+PowerTrain.DL.RDiff.I_Cage = 0.0
+PowerTrain.DL.RDiff.I_in = 0.001
+PowerTrain.DL.RDiff.I_out = 0.001
+PowerTrain.DL.TrqExt2DiffOn = 0
+PowerTrain.DL.TrqExt2WheelOn = 0
+PowerTrain.Gearbox.0.Bdy.I = 0.0 0.0 0.0
+PowerTrain.Gearbox.0.Bdy.mass = 0.0
+PowerTrain.Gearbox.0.Clutch.c = 2500.0
+PowerTrain.Gearbox.0.Clutch.I_in = 0.01
+PowerTrain.Gearbox.0.Clutch.I_out = 0.01
+PowerTrain.Gearbox.0.Clutch.slope = 100.0
+PowerTrain.Gearbox.0.Clutch.Trq_max = 900
+PowerTrain.Gearbox.0.EtaBackwardGears = 1.0
+PowerTrain.Gearbox.0.EtaForwardGears = 1.0
+PowerTrain.Gearbox.0.I_in = 0.001
+PowerTrain.Gearbox.0.I_out = 0.016
+PowerTrain.Gearbox.0.Kind = Auto_AMT 1
+PowerTrain.Gearbox.0.LossKind = Constant
+PowerTrain.Gearbox.0.nFit = 50
+PowerTrain.Gearbox.1.Bdy.I = 0.0 0.0 0.0
+PowerTrain.Gearbox.1.Bdy.mass = 0.0
+PowerTrain.Gearbox.1.Clutch.c = 3000.0
+PowerTrain.Gearbox.1.Clutch.I_in = 0.01
+PowerTrain.Gearbox.1.Clutch.I_out = 0.01
+PowerTrain.Gearbox.1.Clutch.slope = 100.0
+PowerTrain.Gearbox.1.Clutch.Trq_max = 900.0
+PowerTrain.Gearbox.1.EtaBackwardGears = 1.0
+PowerTrain.Gearbox.1.EtaForwardGears = 1.0 1.0
+PowerTrain.Gearbox.1.I_in = 0.001
+PowerTrain.Gearbox.1.I_out = 0.016
+PowerTrain.Gearbox.1.iBackwardGears = -8
+PowerTrain.Gearbox.1.iForwardGears = 15 8
+PowerTrain.Gearbox.1.Kind = Auto_AMT 1
+PowerTrain.Gearbox.1.LossKind = Constant
+PowerTrain.Gearbox.1.nFit = 50
+PowerTrain.Inverter.0.Kind = Mapping 1
+PowerTrain.Inverter.1.Kind = Mapping 1
+PowerTrain.MCU.Kind = Basic 1
+PowerTrain.MCU.Motor.RotvCtrl.i = 5.0e-3
+PowerTrain.MCU.Motor.RotvCtrl.p = 0.01
+PowerTrain.MCU.Motor.TrqCtrl.i = 0.1
+PowerTrain.MCU.Motor.TrqCtrl.p = 0.0005
+PowerTrain.MCU.Motor1.RotvCtrl.i = 5.0e-3
+PowerTrain.MCU.Motor1.RotvCtrl.p = 0.01
+PowerTrain.MCU.Motor1.TrqCtrl.i = 0.1
+PowerTrain.MCU.Motor1.TrqCtrl.p = 0.0005
+PowerTrain.MechComp.0.Input.0 = Pwr_HV1toLV_trg                            Pwr_HV1toLV_trg                       PTBatteryCU
+PowerTrain.MechComp.0.ModelClass = PTPowerSupply
+PowerTrain.MechComp.1.Input.0 = Load_in                                    MotorOut.m0.Load                      PTMotorCU
+PowerTrain.MechComp.1.Input.1 = PwrElec                                    PwrElec                               PTMotor 0
+PowerTrain.MechComp.1.Input.2 = VoltBatt                                   Voltage_HV1                           PTPowerSupply
+PowerTrain.MechComp.1.Input.3 = Motor_Trq                                  Trq                                   PTMotor 0
+PowerTrain.MechComp.1.Input.4 = Motor_rotv                                 rotv                                  PTMotor 0
+PowerTrain.MechComp.1.Input.5 = Motor_rot                                  rot                                   PTMotor 0
+PowerTrain.MechComp.1.Input.CfgIF.0 = CfgIF.Level                          CfgIF.Level                           PTMotor 0
+PowerTrain.MechComp.1.Input.CfgIF.1 = CfgIF.nPolePairs                     CfgIF.PMSM.nPolePairs                 PTMotor 0
+PowerTrain.MechComp.1.Input.CfgIF.2 = CfgIF.MotorType                      CfgIF.CtrlMode                        PTMotor 0
+PowerTrain.MechComp.1.ModelClass = PTInverter 0
+PowerTrain.MechComp.2.Input.0 = Load                                       Load_out				 PTInverter 0
+PowerTrain.MechComp.2.Input.1 = rot                                        rot_in                                PTGearbox 0
+PowerTrain.MechComp.2.Input.2 = rotv                                       rotv_in                               PTGearbox 0
+PowerTrain.MechComp.2.Input.3 = VoltBatt                                   Voltage_HV1                           PTPowerSupply
+PowerTrain.MechComp.2.ModelClass = PTMotor 0
+PowerTrain.MechComp.3.Input.0 = Load_in				           MotorOut.m1.Load                      PTMotorCU
+PowerTrain.MechComp.3.Input.1 = PwrElec                                    PwrElec                               PTMotor 1
+PowerTrain.MechComp.3.Input.2 = VoltBatt                                   Voltage_HV1                           PTPowerSupply
+PowerTrain.MechComp.3.Input.3 = Motor_Trq                                  Trq                                   PTMotor 1
+PowerTrain.MechComp.3.Input.4 = Motor_rotv                                 rotv                                  PTMotor 1
+PowerTrain.MechComp.3.Input.5 = Motor_rot                                  rot                                   PTMotor 1
+PowerTrain.MechComp.3.Input.CfgIF.0 = CfgIF.Level                          CfgIF.Level                           PTMotor 1
+PowerTrain.MechComp.3.Input.CfgIF.1 = CfgIF.nPolePairs                     CfgIF.PMSM.nPolePairs                 PTMotor 1
+PowerTrain.MechComp.3.Input.CfgIF.2 = CfgIF.MotorType                      CfgIF.CtrlMode                        PTMotor 1
+PowerTrain.MechComp.3.ModelClass = PTInverter 1
+PowerTrain.MechComp.4.Input.0 = Load                                       Load_out				 PTInverter 1
+PowerTrain.MechComp.4.Input.1 = rot                                        rot_in                                PTGearbox 1
+PowerTrain.MechComp.4.Input.2 = rotv                                       rotv_in                               PTGearbox 1
+PowerTrain.MechComp.4.Input.3 = VoltBatt                                   Voltage_HV1                           PTPowerSupply
+PowerTrain.MechComp.4.ModelClass = PTMotor 1
+PowerTrain.MechComp.5.Input.0 = GearNoTrg                                  GearboxOut.0.GearNoTrg                PTTransmCU
+PowerTrain.MechComp.5.Input.1 = GearNoTrg_dis                              GearboxOut.0.GearNoTrg_dis            PTTransmCU
+PowerTrain.MechComp.5.Input.2 = set_parkBrake                              GearboxOut.0.set_ParkBrake            PTTransmCU
+PowerTrain.MechComp.5.Input.3 = i_trg                                      GearboxOut.0.i_trg                    PTTransmCU
+PowerTrain.MechComp.5.Input.4 = Inert_in                                   InertShaft_out                              PTMotor 0
+PowerTrain.MechComp.5.Input.5 = rot_out                                    DriveOut.d0.rot_in                          PTDriveline
+PowerTrain.MechComp.5.Input.6 = rotv_out                                   DriveOut.d0.rotv_in                         PTDriveline
+PowerTrain.MechComp.5.Input.7 = Trq_in                                     TrqShaft_out                                PTMotor 0
+PowerTrain.MechComp.5.Input.8 = ClutchIn.Pos                               GearboxOut.0.Clutch.Pos               PTTransmCU
+PowerTrain.MechComp.5.Input.9 = Clutch_dis_In.Pos                          GearboxOut.0.Clutch_dis.Pos           PTTransmCU
+PowerTrain.MechComp.5.ModelClass = PTGearbox 0
+PowerTrain.MechComp.6.Input.0 = GearNoTrg                                  GearboxOut.1.GearNoTrg                PTTransmCU
+PowerTrain.MechComp.6.Input.1 = GearNoTrg_dis                              GearboxOut.1.GearNoTrg_dis            PTTransmCU
+PowerTrain.MechComp.6.Input.2 = set_parkBrake                              GearboxOut.1.set_ParkBrake            PTTransmCU
+PowerTrain.MechComp.6.Input.3 = i_trg                                      GearboxOut.1.i_trg                    PTTransmCU
+PowerTrain.MechComp.6.Input.4 = Inert_in                                   InertShaft_out                              PTMotor 1
+PowerTrain.MechComp.6.Input.5 = rot_out                                    DriveOut.d1.rot_in                          PTDriveline
+PowerTrain.MechComp.6.Input.6 = rotv_out                                   DriveOut.d1.rotv_in                         PTDriveline
+PowerTrain.MechComp.6.Input.7 = Trq_in                                     TrqShaft_out                                PTMotor 1
+PowerTrain.MechComp.6.Input.8 = ClutchIn.Pos                               GearboxOut.1.Clutch.Pos               PTTransmCU
+PowerTrain.MechComp.6.Input.9 = Clutch_dis_In.Pos                          GearboxOut.1.Clutch_dis.Pos           PTTransmCU
+PowerTrain.MechComp.6.ModelClass = PTGearbox 1
+PowerTrain.MechComp.7.Input.0 = WheelIn.FL.Trq_Brake                       WheelIn.FL.Trq_Brake                        PTPowertrain
+PowerTrain.MechComp.7.Input.1 = WheelIn.FR.Trq_Brake                       WheelIn.FR.Trq_Brake                        PTPowertrain
+PowerTrain.MechComp.7.Input.2 = WheelIn.RL.Trq_Brake                       WheelIn.RL.Trq_Brake                        PTPowertrain
+PowerTrain.MechComp.7.Input.3 = WheelIn.RR.Trq_Brake                       WheelIn.RR.Trq_Brake                        PTPowertrain
+PowerTrain.MechComp.7.Input.4 = WheelIn.FL.Trq_T2W                         WheelIn.FL.Trq_T2W                          PTPowertrain
+PowerTrain.MechComp.7.Input.5 = WheelIn.FR.Trq_T2W                         WheelIn.FR.Trq_T2W                          PTPowertrain
+PowerTrain.MechComp.7.Input.6 = WheelIn.RL.Trq_T2W                         WheelIn.RL.Trq_T2W                          PTPowertrain
+PowerTrain.MechComp.7.Input.7 = WheelIn.RR.Trq_T2W                         WheelIn.RR.Trq_T2W                          PTPowertrain
+PowerTrain.MechComp.7.Input.8 = WheelIn.FL.Trq_WhlBearing                  WheelIn.FL.Trq_WhlBearing                   PTPowertrain
+PowerTrain.MechComp.7.Input.9 = WheelIn.FR.Trq_WhlBearing                  WheelIn.FR.Trq_WhlBearing                   PTPowertrain
+PowerTrain.MechComp.7.Input.10 = WheelIn.RL.Trq_WhlBearing                  WheelIn.RL.Trq_WhlBearing                   PTPowertrain
+PowerTrain.MechComp.7.Input.11 = WheelIn.RR.Trq_WhlBearing                  WheelIn.RR.Trq_WhlBearing                   PTPowertrain
+PowerTrain.MechComp.7.Input.12 = DriveIn.d0.Inert_in                        Inert_out                                   PTGearbox 0
+PowerTrain.MechComp.7.Input.13 = DriveIn.d0.Trq_in                          Trq_out                                     PTGearbox 0
+PowerTrain.MechComp.7.Input.14 = DriveIn.d1.Inert_in                        Inert_out                                   PTGearbox 1
+PowerTrain.MechComp.7.Input.15 = DriveIn.d1.Trq_in                          Trq_out                                     PTGearbox 1
+PowerTrain.MechComp.7.ModelClass = PTDriveline
+PowerTrain.Motor.Bdy.I = 0.0 0.0 0.0
+PowerTrain.Motor.Bdy.mass = 0.0
+PowerTrain.Motor.Fric = 3.0e-4
+PowerTrain.Motor.Gen.Eta = 0.95
+PowerTrain.Motor.Gen.EtaKind = Value
+PowerTrain.Motor.Gen.Pwr_max = 200
+PowerTrain.Motor.Gen.rotv_max = 15000
+PowerTrain.Motor.Gen.rotv_Trq_max = 50
+PowerTrain.Motor.Gen.Trq_max = 400
+PowerTrain.Motor.Gen.TrqKind = Value
+PowerTrain.Motor.I = 0.05
+PowerTrain.Motor.Kind = Mapping 1
+PowerTrain.Motor.Mot.Eta = 0.95
+PowerTrain.Motor.Mot.EtaKind = Value
+PowerTrain.Motor.Mot.Pwr_max = 200
+PowerTrain.Motor.Mot.rotv_max = 15000
+PowerTrain.Motor.Mot.Trq_max = 400
+PowerTrain.Motor.Mot.TrqKind = Value
+PowerTrain.Motor.Ratio = 1.0
+PowerTrain.Motor.tBuildUp = 0.01
+PowerTrain.Motor.VoltageLevel = HV1
+PowerTrain.Motor1.Bdy.I = 0.0 0.0 0.0
+PowerTrain.Motor1.Bdy.mass = 0.0
+PowerTrain.Motor1.Fric = 3.0e-4
+PowerTrain.Motor1.Gen.Eta = 0.95
+PowerTrain.Motor1.Gen.EtaKind = Value
+PowerTrain.Motor1.Gen.Pwr_max = 360
+PowerTrain.Motor1.Gen.rotv_max = 15500.0
+PowerTrain.Motor1.Gen.rotv_Trq_max = 50
+PowerTrain.Motor1.Gen.Trq_max = 550
+PowerTrain.Motor1.Gen.TrqKind = Value
+PowerTrain.Motor1.I = 0.05
+PowerTrain.Motor1.Kind = Mapping 1
+PowerTrain.Motor1.Mot.Eta = 0.95
+PowerTrain.Motor1.Mot.EtaKind = Value
+PowerTrain.Motor1.Mot.Pwr_max = 360
+PowerTrain.Motor1.Mot.rotv_max = 15500.0
+PowerTrain.Motor1.Mot.Trq_max = 550
+PowerTrain.Motor1.Mot.TrqKind = Value
+PowerTrain.Motor1.Ratio = 1.0
+PowerTrain.Motor1.tBuildUp = 0.01
+PowerTrain.Motor1.VoltageLevel = HV1
+PowerTrain.OSRate = 5
+PowerTrain.PowerSupply.BattHV.Bdy.0.I = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.0.mass = 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.1.I = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattHV.Bdy.1.mass = 0.0
+PowerTrain.PowerSupply.BattHV.C1 = 4074.0
+PowerTrain.PowerSupply.BattHV.C2 = 82000.0
+PowerTrain.PowerSupply.BattHV.Capacity = 110.0
+PowerTrain.PowerSupply.BattHV.Kind = Chen 1
+PowerTrain.PowerSupply.BattHV.PwrMax.Kind = Const
+PowerTrain.PowerSupply.BattHV.PwrMax.Pwr_max = 760.0
+PowerTrain.PowerSupply.BattHV.R0 = 0.0012
+PowerTrain.PowerSupply.BattHV.R1 = 0.0004
+PowerTrain.PowerSupply.BattHV.R2 = 0.0011
+PowerTrain.PowerSupply.BattHV.SOC = 80.0
+PowerTrain.PowerSupply.BattHV.SOC_max = 80.0
+PowerTrain.PowerSupply.BattHV.SOC_min = 20.0
+PowerTrain.PowerSupply.BattHV.Voltage_oc = 800.0
+PowerTrain.PowerSupply.BattHV.VoltCorr_SOC.Active = 0
+PowerTrain.PowerSupply.BattLV.Bdy.0.I = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.0.mass = 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.1.I = 0.0 0.0 0.0
+PowerTrain.PowerSupply.BattLV.Bdy.1.mass = 0.0
+PowerTrain.PowerSupply.BattLV.C1 = 4074.0
+PowerTrain.PowerSupply.BattLV.C2 = 82000.0
+PowerTrain.PowerSupply.BattLV.Capacity = 10.0
+PowerTrain.PowerSupply.BattLV.Kind = Chen 1
+PowerTrain.PowerSupply.BattLV.PwrMax.Kind = Const
+PowerTrain.PowerSupply.BattLV.PwrMax.Pwr_max = 2.0
+PowerTrain.PowerSupply.BattLV.R0 = 0.0012
+PowerTrain.PowerSupply.BattLV.R1 = 0.0004
+PowerTrain.PowerSupply.BattLV.R2 = 0.0011
+PowerTrain.PowerSupply.BattLV.SOC = 70.0
+PowerTrain.PowerSupply.BattLV.SOC_max = 90.0
+PowerTrain.PowerSupply.BattLV.SOC_min = 10.0
+PowerTrain.PowerSupply.BattLV.Voltage_oc = 12.0
+PowerTrain.PowerSupply.BattLV.VoltCorr_SOC.Active = 0
+PowerTrain.PowerSupply.DCDC_HV1_LV.Eta = 0.95
+PowerTrain.PowerSupply.DCDC_HV1_LV.EtaKind = Value
+PowerTrain.PowerSupply.DCDC_HV1_LV.Pwr_max = 0.0
+PowerTrain.PowerSupply.Kind = LV_HV1 1
+PowerTrain.PowerSupply.Pwr_HV1_aux = 0.0
+PowerTrain.PowerSupply.Pwr_LV_aux = 0.0
+PowerTrain.TCU.AutoWithMan = 0
+PowerTrain.TCU.ClutchCtrl.0.Creep.Active = 0
+PowerTrain.TCU.ClutchCtrl.0.Creep.Brake_lim = 0.0
+PowerTrain.TCU.GB.0.Active = 1
+PowerTrain.TCU.GB.1.Active = 1
+PowerTrain.TCU.GB.2.Active = 0
+PowerTrain.TCU.GB.3.Active = 0
+PowerTrain.TCU.GB.4.Active = 0
+PowerTrain.TCU.Kind = Auto_AMT 1
+PowerTrain.TCU.ShiftCtrl.0.Delay = 0.5
+PowerTrain.TCU.ShiftCtrl.0.Kind = Linear
+PowerTrain.TCU.ShiftCtrl.0.Man.SpeedRange = 0.0 16000.0
+PowerTrain.TCU.ShiftCtrl.0.nShift:
+	1 0 16000
+PowerTrain.TCU.ShiftCtrl.0.RotvRef = Engine
+PowerTrain.TCU.ShiftCtrl.1.Delay = 0.5
+PowerTrain.TCU.ShiftCtrl.1.Kind = Linear
+PowerTrain.TCU.ShiftCtrl.1.Man.SpeedRange = 0.0 16000.0
+PowerTrain.TCU.ShiftCtrl.1.nShift:
+	1 0 12000
+	2 0 16000
+PowerTrain.TCU.ShiftCtrl.1.RotvRef = Engine
+
+Additional.Comment:

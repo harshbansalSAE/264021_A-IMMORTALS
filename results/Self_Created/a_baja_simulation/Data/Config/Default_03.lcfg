@@ -1,0 +1,46 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = Scenario-LaneConfig 2.0
+FileCreator = CarMaker Office 14.0.1
+
+Name = Default 03
+Prio = 1
+
+LaneL = roadside 2.5
+LaneL.0 = road 3.5
+LaneL.1 = border 0.3
+LaneL.2 = road 3.5
+LaneL.3 = border 0.3
+LaneL.4 = road 3.5
+LaneL.5 = border 0.3
+LaneL.6 = road 3.5
+LaneL.7 = border 0.3
+LaneL.8 = border 1.5
+LaneR = roadside 2.5
+LaneR.0 = border 1.5
+
+RoadMarkingL.0 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.1 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.2 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.3 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.4 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.5 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.6 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.7 = line 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.8 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 left
+RoadMarkingR.0 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingC = line 2.0 4.0 0.15 {1.0 1.0 1.0} 0.0 center
+
+TrafficBarrierL.0 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierL.1 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.2 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.3 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.4 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.5 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.6 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.7 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierL.8 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.0 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierC = none sigma 0.155 0.75 3.0 0.0 center
+
+GuidePostL = none 50.0 0.0 left
+GuidePostR = none 50.0 0.0 right

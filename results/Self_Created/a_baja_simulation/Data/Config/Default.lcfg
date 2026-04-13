@@ -1,0 +1,52 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = Scenario-LaneConfig 2.0
+FileCreator = CarMaker Office 14.0.1
+
+Name = Default
+Prio = 4
+
+LaneL = roadside 2.5
+LaneL.0 = road 3.5
+LaneL.1 = border 0
+LaneL.2 = road 3.5
+LaneL.3 = border 0
+LaneL.4 = road 3.5
+LaneL.5 = border 0.5
+LaneR = roadside 2.5
+LaneR.0 = road 3.5
+LaneR.1 = border 0
+LaneR.2 = road 3.5
+LaneR.3 = border 0
+LaneR.4 = road 3.5
+LaneR.5 = border 0.5
+
+RoadMarkingL.0 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.1 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.2 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 right
+RoadMarkingL.3 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingL.4 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 left
+RoadMarkingL.5 = line 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingR.0 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.1 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingR.2 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.3 = dash 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingR.4 = none 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 right
+RoadMarkingR.5 = line 2.0 4.0 0.12 {1.0 1.0 1.0} 0.0 center
+RoadMarkingC = dash 2.0 4.0 0.15 {1.0 1.0 1.0} 0.0 center
+
+TrafficBarrierL.0 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierL.1 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.2 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierL.3 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.4 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierL.5 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.0 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.1 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.2 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.3 = none sigma 0.155 0.75 3.0 0.0 left
+TrafficBarrierR.4 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierR.5 = none sigma 0.155 0.75 3.0 0.0 right
+TrafficBarrierC = none sigma 0.155 0.75 3.0 0.0 center
+
+GuidePostL = none 50.0 0.0 left
+GuidePostR = none 50.0 0.0 right

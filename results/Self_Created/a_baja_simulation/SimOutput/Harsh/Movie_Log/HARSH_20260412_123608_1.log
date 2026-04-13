@@ -1,0 +1,60 @@
+2026-04-12 12:36:19.254  headless     INFO GPUSensor_1_0@HARSH --> 15.0 2025-11-17 (Windows NT 10.0  64-Bit)
+2026-04-12 12:36:41.346  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:36:48.560  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:36:55.076  general      WARN RSDS client not running on simulation start.
+2026-04-12 12:38:05.353  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:38:12.738  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:38:13.351  general      WARN RSDS client not running on simulation start.
+2026-04-12 12:39:28.516  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:39:35.930  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:39:36.518  general      WARN RSDS client not running on simulation start.
+2026-04-12 14:31:01.180  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 14:31:08.578  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 14:31:11.106  general      WARN RSDS client not running on simulation start.
+2026-04-12 14:31:51.531  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 14:31:59.320  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 14:31:59.977  general      WARN RSDS client not running on simulation start.
+2026-04-12 14:33:01.523  headless     INFO GPUSensor_1_0@HARSH --> Simulation stopped at 60
+2026-04-12 15:12:43.275  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:12:49.260  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 15:12:52.897  general      WARN RSDS client not running on simulation start.
+2026-04-12 15:18:41.466  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:18:42.181  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 15:18:45.296  general      WARN RSDS client not running on simulation start.
+2026-04-12 15:40:49.968  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:40:57.564  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 15:41:00.611  general      WARN RSDS client not running on simulation start.
+2026-04-12 15:41:38.823  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:41:46.013  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 15:41:46.569  general      WARN RSDS client not running on simulation start.
+2026-04-12 15:45:12.241  headless     INFO GPUSensor_1_0@HARSH --> 
+------------------------------+
+ RSI Sensors for GPUSensor #1 |
+-------------+---------+----------+-----------------------------
+2026-04-12 15:45:12.241  headless     INFO GPUSensor_1_0@HARSH -->   Type        | Name    | Instance | For this GPUSensor instance
+-------------+---------+----------+-----------------------------
+2026-04-12 15:45:12.241  headless     INFO GPUSensor_1_0@HARSH -->  Radar RSI     Vhcl.VehSensor_1     1       yes
+2026-04-12 15:45:12.241  headless     INFO GPUSensor_1_0@HARSH --> using CUDA device #0
+2026-04-12 15:45:13.813  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:45:14.329  headless     INFO GPUSensor_1_0@HARSH --> RSDS client connected (62693@127.0.0.1)
+2026-04-12 15:45:57.708  headless     INFO GPUSensor_1_0@HARSH --> 
+------------------------------+
+ RSI Sensors for GPUSensor #1 |
+-------------+---------+----------+-----------------------------
+2026-04-12 15:45:57.708  headless     INFO GPUSensor_1_0@HARSH -->   Type        | Name    | Instance | For this GPUSensor instance
+-------------+---------+----------+-----------------------------
+2026-04-12 15:45:57.708  headless     INFO GPUSensor_1_0@HARSH -->  Radar RSI     Vhcl.VehSensor_1     1       yes
+2026-04-12 15:45:57.708  headless     INFO GPUSensor_1_0@HARSH --> using CUDA device #0
+2026-04-12 15:45:59.086  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 15:46:01.529  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 15:46:04.010  general      EROR Error in GPUSensor Version 15.0 can't read "Scene(Route.Veh.Eval)": no such element in array
+2026-04-12 15:46:04.010  general      EROR can't read "Scene(Route.Veh.Eval)": no such element in array
+    while executing
+"RayTracer render $Scene(Route.Veh.Eval)"
+    (procedure "RayTracerGlue::OnUpdateView" line 30)
+    invoked from within
+"RayTracerGlue::OnUpdateView"
+    (procedure "UpdateSensor_TimerProc" line 24)
+    invoked from within
+"UpdateSensor_TimerProc"
+    ("after" script)

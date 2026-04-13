@@ -1,0 +1,12 @@
+2026-04-12 12:24:47.034  headless     INFO GPUSensor_1_0@HARSH --> 15.0 2025-11-17 (Windows NT 10.0  64-Bit)
+2026-04-12 12:25:04.484  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:25:11.079  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:25:12.355  general      WARN RSDS client not running on simulation start.
+2026-04-12 12:25:19.716  headless     INFO GPUSensor_1_0@HARSH --> Simulation stopped at 6.96
+2026-04-12 12:26:02.331  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:26:09.127  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:26:09.246  general      WARN RSDS client not running on simulation start.
+2026-04-12 12:26:16.433  headless     INFO GPUSensor_1_0@HARSH --> Simulation stopped at 6.96
+2026-04-12 12:26:28.338  headless     INFO GPUSensor_1_0@HARSH --> Scene loaded
+2026-04-12 12:26:34.720  headless     INFO GPUSensor_1_0@HARSH --> Simulation starts
+2026-04-12 12:26:34.845  headless     INFO GPUSensor_1_0@HARSH --> Closing IPGMovie
